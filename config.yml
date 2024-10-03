@@ -19,10 +19,10 @@ params:
   keywords: [digital marketing, online marketing, digital agency, website marketing]
   author: Gladys Yip
   # author: ["Me", "You"] # multiple authors
-  images: ["images/gladys-image.webp"]
+  images: ["images/logo.png"]
   imageWidth: 100
   imageHeight: 100
-  imageTitle: "Gladys Yip - W Digital"
+  imageTitle: "W Digital Agency"
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: true
@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: W Digital Agency
     subtitle: "Your Digital Marketing Partner in Southeast Asia"
-    imageUrl: "/images/logo.png"
+    imageUrl: "images/logo.png"
     imageWidth: 60
     imageHeight: 60
     imageTitle: W Digital Agency
@@ -85,7 +85,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "fNlHqYI2DhSABk4eSJOlX88v2H3FXHMY8CTlllHujzY"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -148,3 +148,9 @@ markup:
 ## permalink setting without /posts/
 permalinks:
   posts: /:slug/
+
+## Google analytics
+
+services:
+  googleAnalytics:
+    id: G-F3P521BE2K
