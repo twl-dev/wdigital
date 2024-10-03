@@ -54,7 +54,7 @@ params:
 
   label:
     text: "W Digital Agency"
-    icon: "/images/logo.png"
+    icon: "images/logo.png"
     iconHeight: 100
 
   # profile-mode
