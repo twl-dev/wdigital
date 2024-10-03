@@ -1,0 +1,150 @@
+baseURL: http://www.wdigitalagency.com/
+languageCode: en-uk
+title: W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: W Digital Agency
+  description: "W Digital Agency is a digital marketing agency based in Hong Kong that specializes in SEO, SEM, and E-commerce strategy for Southeast Asian markets. With over 10 years of experience, we provide data-driven solutions to help businesses thrive online."
+  keywords: [digital marketing, online marketing, digital agency, website marketing]
+  author: Gladys Yip
+  # author: ["Me", "You"] # multiple authors
+  images: ["images/gladys-image.webp"]
+  imageWidth: 100
+  imageHeight: 100
+  imageTitle: "Gladys Yip - W Digital"
+  DateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "images/logo.png"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "W Digital Agency"
+    icon: "/images/logo.png"
+    iconHeight: 100
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: W Digital Agency
+    subtitle: "Your Digital Marketing Partner in Southeast Asia"
+    imageUrl: "/images/logo.png"
+    imageWidth: 60
+    imageHeight: 60
+    imageTitle: W Digital Agency
+    buttons:
+      - name: Our Services
+        url: /services/
+      - name: About Us 
+        url: /about/
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to W Digital Agency, a digital marketing consultatncy and agency based in Hong Kong that specializes in website design, SEO, SEM, and e-commerce strategy for Southeast Asian markets.
+  # social icons
+  socialIcons:
+    - name: threads
+      url: "https://threads.net/@wdigitalagency"
+    - name: github
+      url: "https://github.com/twl-dev"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: ""
+    Text: "" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: About
+      name: About 
+      url: /about/
+      weight: 10
+    - identifier: services
+      name: Our Services
+      url: /services/
+      weight: 20
+    - identifier: Portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 30
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 40
+    - identifier: Blogs
+      name: Blogs
+      url: https://www.wingleung.me
+      weight: 50
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+## permalink setting without /posts/
+permalinks:
+  posts: /:slug/
