@@ -19,7 +19,7 @@ cover:
 ## Project Brief
 Generate more leads from parents who are searching for the perfect summer courses for their children via Google.
 
-![ADHK-digital-marketing](images/portfolio/afhk-1.png)
+![ADHK-digital-marketing](/images/portfolio/afhk-1.png)
 
 ## What we did in the beginning 
 We understand the challenges that businesses face today when it comes to digital marketing. That’s why we provide a hands-on approach, evaluating and optimizing every aspect of your online presence. Our team’s in-depth knowledge of SEO, PPC, social media, and content marketing enables us to create a tailored strategy that meets your business goals and objectives. By keeping up with the latest trends and developments in the industry, we ensure that your business stays ahead of the competition.

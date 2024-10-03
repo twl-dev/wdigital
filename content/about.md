@@ -20,6 +20,7 @@ Our mission is to enable our clients to achieve their business objectives throug
 - [子程工作室](https://www.leslieyan.com)
 - [餘英殿](https://www.minglit.info/)
 - [程網](https://www.chingmong.com)
+- [Fitz.hk](https://fitz.hk)
 
 ## Drop us a line 
 If you have questions or enquiries about our digital marketing and consultancy services, please [contact us](/contact/)
