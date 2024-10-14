@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2024-09-30T10:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/portfolio/achomehk/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/google-ads/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/keyword-optimization/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lead-generation/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/portfolio/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sem/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/seo/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website-marketing/</loc>
+    <lastmod>2024-10-05T00:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-09-30T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/services/</loc>
@@ -15,9 +48,6 @@
     <lastmod>2024-09-20T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brand-building/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cloudflare/</loc>
@@ -32,20 +62,35 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/seo/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</loc>
-    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/website-marketing/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/website-marketing/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/10-predictions-in-digital-marketing-and-social-media-trends-in-2024/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ar/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/influencer-marketing/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/threads/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/video-marketing/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/video-marketing/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/video-seo/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/xiao-hong-shu/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/crm/</loc>
     <lastmod>2023-09-10T10:00:00+08:00</lastmod>
@@ -68,26 +113,11 @@
     <loc>http://localhost:1313/tags/online-shop/</loc>
     <lastmod>2023-09-10T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/portfolio/</loc>
-    <lastmod>2023-09-10T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
-    <lastmod>2023-09-10T10:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/portfolio/damdambirdnest-portfolio/</loc>
-    <lastmod>2023-09-09T00:10:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/google-ads/</loc>
-    <lastmod>2023-09-09T00:10:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sem/</loc>
     <lastmod>2023-09-09T00:10:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/social-media/</loc>
     <lastmod>2023-09-09T00:10:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lead-generation/</loc>
-    <lastmod>2023-09-01T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/academy-fencing-hk-portfolio/</loc>
     <lastmod>2023-09-01T10:00:00+08:00</lastmod>

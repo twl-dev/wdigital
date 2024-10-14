@@ -16,6 +16,11 @@ cover:
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
+## Client Overview
+- Client: [DamDam BirdNest](https://www.damdambirdnest.com/)
+- Industry: Food Retail and E-Commerce 
+- Location: Hong Kong
+
 
 ## Project Brief
 We also offer services of setting up Google Analytics, managing search marketing campaigns and creating content that converts. With a focus on results-driven strategies, our goal is to help your business succeed online. Contact us today to learn more.

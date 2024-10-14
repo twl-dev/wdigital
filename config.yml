@@ -63,8 +63,8 @@ params:
     title: W Digital Agency
     subtitle: "Your Digital Marketing Partner in Southeast Asia"
     imageUrl: "images/logo.png"
-    imageWidth: 60
-    imageHeight: 60
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: W Digital Agency
     buttons:
       - name: Our Services
@@ -126,14 +126,15 @@ menu:
       name: Portfolio
       url: /portfolio/
       weight: 30
+    - identifier: Blogs
+      name: Blogs
+      url: /posts/
+      weight: 40
     - identifier: Contact
       name: Contact
       url: /contact/
-      weight: 40
-    - identifier: Blogs
-      name: Blogs
-      url: https://www.wingleung.me
       weight: 50
+    
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
