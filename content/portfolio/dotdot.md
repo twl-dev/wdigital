@@ -1,5 +1,5 @@
 ---
-title: "DotDot HK - E-Commernce Strategy and Email Marketing"
+title: "DotDot HK - E Commerce Strategy and Email Marketing"
 publishDate: 2023-09-10T10:00:00+08:00 
 draft: false 
 meta-description: "Transform your digital marketing strategy with our hands-on approach, designed to tackle the unique challenges businesses face today. Our expert team specializes in SEO, PPC, social media, and content marketing, crafting tailored strategies that align with your goals. Stay ahead of the competition by leveraging our up-to-date industry insights."
@@ -17,7 +17,7 @@ cover:
 ---
 
 ## Client Overview
-- Client: [DotDot Asia Limtied](https://www.dotdot.com/)
+- Client: [DotDot Asia Limited](https://www.dotdot.com/)
 - Industry: Supplement Retail and E-Commerce 
 - Location: Hong Kong
 

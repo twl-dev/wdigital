@@ -16,14 +16,14 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: W Digital Agency
   description: "W Digital Agency is a digital marketing agency based in Hong Kong that specializes in SEO, SEM, and E-commerce strategy for Southeast Asian markets. With over 10 years of experience, we provide data-driven solutions to help businesses thrive online."
-  keywords: [digital marketing, online marketing, digital agency, website marketing]
+  keywords: ["Digital marketing", "Online marketing", "SEO", "E-Commerce", "Website marketing"]
   author: Gladys Yip
   # author: ["Me", "You"] # multiple authors
   images: ["images/logo.png"]
   imageWidth: 100
   imageHeight: 100
   imageTitle: "W Digital Agency"
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: true
 
@@ -47,10 +47,10 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "images/logo.png"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon16x16: "images/logo.png"
+    favicon32x32: "images/logo.png"
+    apple_touch_icon: "images/logo.png"
+    safari_pinned_tab: "images/logo.png"
 
   label:
     text: "W Digital Agency"
@@ -69,19 +69,19 @@ params:
     buttons:
       - name: Our Services
         url: /services/
-      - name: About Us 
-        url: /about/
+      - name: Portfolio
+        url: /portfolio/
 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to W Digital Agency, a digital marketing consultatncy and agency based in Hong Kong that specializes in website design, SEO, SEM, and e-commerce strategy for Southeast Asian markets.
+    Content: Welcome to W Digital Agency, a digital marketing consultancy and agency based in Hong Kong that specializes in website design, SEO, SEM, and e-commerce strategy for Southeast Asian markets.
   # social icons
   socialIcons:
     - name: threads
       url: "https://threads.net/@wdigitalagency"
-    - name: github
-      url: "https://github.com/twl-dev"
+    - name: instagram
+      url: "https://www.instagram.com/w.digital.agency"
 
   analytics:
     google:

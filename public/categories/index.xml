@@ -41,5 +41,19 @@
       <guid>http://localhost:1313/categories/video-marketing/</guid>
       <description></description>
     </item>
+    <item>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/categories/e-commerce/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email Marketing</title>
+      <link>http://localhost:1313/categories/email-marketing/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/email-marketing/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
