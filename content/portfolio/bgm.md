@@ -12,6 +12,7 @@ cover:
   alt: "business mama group 6th anniversary dinner in Hong Kong"
   caption: "Video and event management support - business mama group"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+og_image: "images/bmg.png"
 ---
 
 On September 27, 2024 (Friday), the Business Mama Group (BMG) celebrated its sixth anniversary with a grand dinner, attracting over 100 guests. The event took place at 7 PM in Jordan, themed "When Flowers Bloom, Butterflies Come," where all attending mothers dressed elegantly, showcasing their beauty.

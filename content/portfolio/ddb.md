@@ -14,6 +14,7 @@ cover:
   alt: "damdambirdnest 啖啖燕窩"
   caption: ""
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+og_image: "images/portfolio/ddb-4.jpg"
 ---
 
 ## Client Overview

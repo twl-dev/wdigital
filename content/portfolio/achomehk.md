@@ -13,6 +13,7 @@ cover:
   alt: "Photo by Pietro Greco from Pexels: https://www.pexels.com/photo/renovation-of-an-apartmetn-flat-9908376/"
   caption: "AC Home Hong Kong - SEO and SEM Campaign Case Study"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+og_image: "https://images.pexels.com/photos/9908376/pexels-photo-9908376.jpeg"
 ---
 
 ## Client Overview
@@ -46,7 +47,7 @@ These keywords not only had significantly larger search volumes but also lower C
 
 ### Youtube Video Marketing
 
-We have developed [tutorial videos](https://www.youtube.com/@achome/videos) and published them on Youtube, which are effecitvely for video SEO and youtube advertising. 
+We have developed [tutorial videos](https://www.youtube.com/@achome/videos) and published them on Youtube, which are effectively for video SEO and youtube advertising. 
 
 {{< youtube TLnUg0d8Y5E >}}
 {{< youtube 72BZN8sAhKc >}}
@@ -66,7 +67,7 @@ We have developed [tutorial videos](https://www.youtube.com/@achome/videos) and 
 - Created informative blog posts around the targeted keywords, addressing common issues and solutions related to air conditioning.
 - Developed guides and FAQs that encouraged user engagement and positioned AC Home as an industry authority.
 
-For example, the blog post about [how to prevent from installating a split-type AC mistakenly](https://www.achomehk.com/post/%E9%81%BF%E5%85%8D%E5%AE%89%E8%A3%9D%E5%88%86%E9%AB%94%E5%BC%8F%E5%86%B7%E6%B0%A3%E6%A9%9F%E4%B8%AD%E4%BC%8F-ac-home-%E5%86%B7%E6%B0%A3%E5%B8%AB%E5%82%85%E6%8B%86%E8%A7%A3%E8%A6%81%E6%B1%82) hits to the top of the SERP. Its click-through rate is abnormally high up to 20%! SMEs have to secure such long-tailed keywords in order to surpass big media websites. 
+For example, the blog post about [how to prevent from installation a split-type AC mistakenly](https://www.achomehk.com/post/%E9%81%BF%E5%85%8D%E5%AE%89%E8%A3%9D%E5%88%86%E9%AB%94%E5%BC%8F%E5%86%B7%E6%B0%A3%E6%A9%9F%E4%B8%AD%E4%BC%8F-ac-home-%E5%86%B7%E6%B0%A3%E5%B8%AB%E5%82%85%E6%8B%86%E8%A7%A3%E8%A6%81%E6%B1%82) hits to the top of the SERP. Its click-through rate is abnormally high up to 20%! SMEs have to secure such long-tailed keywords in order to surpass big media websites. 
 
 
 #### SEM Campaigns:
