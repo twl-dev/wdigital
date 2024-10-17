@@ -37,6 +37,7 @@ This case study outlines the strategic approach to producing video content featu
 {{<youtube 8XGYFQd-m78>}}
 
 > Source: [ChingMong.com](https://www.chingmong.com/reng-jian-chi-yi-die-zheng-yu-jian-chi-yan-yuan-zhuan-ye-feng-su-bo-fang-tan-cheng-wang-jie-mu-zhen-zi-cheng/)
+> MC by [Leslie Yan](https://www.leslieyan.com)
 
 ## Outcomes
 - Achieved an organic reach of over 15,000 views within the first month of launching the channel.

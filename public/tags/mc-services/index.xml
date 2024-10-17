@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PR Management on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
-    <link>http://localhost:1313/tags/pr-management/</link>
-    <description>Recent content in PR Management on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</description>
+    <title>MC Services on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
+    <link>http://localhost:1313/tags/mc-services/</link>
+    <description>Recent content in MC Services on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</description>
     <image>
       <title>W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
       <url>http://localhost:1313/images/logo.png</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 10 Oct 2024 10:05:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pr-management/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Behind the Scenes: Launching Alice Fung So Bor&#39;s YouTube Channel - A Case Study in Content Production and PR</title>
-      <link>http://localhost:1313/portfolio/launching-alice-fung-so-bor-youtube-channel/</link>
-      <pubDate>Thu, 10 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:1313/portfolio/launching-alice-fung-so-bor-youtube-channel/</guid>
-      <description>Explore the strategic launch of Alice Fung So Bor&amp;rsquo;s YouTube channel, featuring a celebrity interview, professional production, and effective PR tactics. Discover how we achieved over 15,000 views and 200+ likes through engaging content development and audience engagement strategies.</description>
-    </item>
+    <lastBuildDate>Wed, 02 Oct 2024 10:05:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mc-services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Celebrate Six Years of Business Mama Group: A Night of Inspiration and Connection</title>
       <link>http://localhost:1313/portfolio/event-marketing-management-business-mama-group-6th-anniversary-2024/</link>
