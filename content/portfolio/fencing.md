@@ -2,7 +2,7 @@
 title: "The Academy of Fencing Hong Kong - Google Ads Consultation"
 publishDate: 2023-09-01T10:00:00+08:00 
 draft: false 
-meta-description: Generate more leads from parents searching for the ideal summer courses for their children with our expert digital marketing strategies. W Digital specialize in optimizing your online presence through tailored SEO, PPC, and social media techniques, ensuring the Academy of Fencing (HK) to stand out." 
+meta-description: "Generate more leads from parents searching for the ideal summer courses for their children with our expert digital marketing strategies. W Digital specialize in optimizing your online presence through tailored SEO, PPC, and social media techniques, ensuring the Academy of Fencing (HK) to stand out." 
 tags: ["SEM", "Lead Generation", "Google Ads", "Website Marketing"]
 categories: ["Portfolio"]
 summary: "Academy of Fencing (Hong Kong), a local fencing school looks for more leads during the summer period, as this is their first time of using Google Ads and search engine marketing. The lead quality is much better than on social media platforms."
@@ -12,7 +12,7 @@ cover:
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt: "Academy of Fencing (HK)"
-  caption: ""
+  caption: "SEO infrastructure for Academy of Fencing Hong Kong"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
@@ -25,7 +25,7 @@ cover:
 ## Project Brief
 Generate more leads from parents who are searching for the perfect summer courses for their children via Google.
 
-![ADHK-digital-marketing](/images/portfolio/afhk-1.png)
+![AFHK-digital-marketing](/images/portfolio/afhk-1.png)
 
 ## What we did in the beginning 
 We understand the challenges that businesses face today when it comes to digital marketing. That’s why we provide a hands-on approach, evaluating and optimizing every aspect of your online presence. Our team’s in-depth knowledge of SEO, PPC, social media, and content marketing enables us to create a tailored strategy that meets your business goals and objectives. By keeping up with the latest trends and developments in the industry, we ensure that your business stays ahead of the competition.
