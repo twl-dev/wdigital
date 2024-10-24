@@ -19,7 +19,7 @@ The answer is definitely yes. And, as a digital specialist, we are pretty sure t
 
 ## Do you know how many emails sent by day in 2024?
 
-> <strong>361.1 billions per day</strong>, from [Oberlo](https://www.oberlo.com/statistics/how-many-emails-are-sent-per-day)
+> *361.1 billions per day*, from [Oberlo](https://www.oberlo.com/statistics/how-many-emails-are-sent-per-day)
 
 Even though instant messengers are blooming, email usage has not been affected. The trend is expected to increase by 3-4% annually across this century.
 

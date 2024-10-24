@@ -2,34 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/launching-alice-fung-so-bor-youtube-channel/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/china-digital-marketing/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/e-commerce/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/live-selling/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/online-selling/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/online-shop/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/portfolio/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shopline/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social-media-marketing/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/threads/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/video-marketing/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wechat/</loc>
+    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/launching-alice-fung-so-bor-youtube-channel/</loc>
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/celebrity-management/</loc>
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/portfolio/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/pr-management/</loc>
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/video-marketing/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/video-seo/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/youtube-marketing/</loc>
@@ -104,17 +134,11 @@
     <loc>http://localhost:1313/tags/influencer-marketing/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/threads/</loc>
-    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/video-marketing/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/xiao-hong-shu/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/e-commerce/</loc>
-    <lastmod>2024-02-01T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/e-commerce/</loc>
     <lastmod>2024-02-01T08:00:00+08:00</lastmod>
@@ -140,29 +164,14 @@
     <loc>http://localhost:1313/tags/online-shopping/</loc>
     <lastmod>2024-02-01T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/china-digital-marketing/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</loc>
+    <lastmod>2024-01-31T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/gmail/</loc>
+    <lastmod>2024-01-31T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/live-selling/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/online-selling/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/online-shop/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/shopline/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/social-media-marketing/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wechat/</loc>
-    <lastmod>2023-10-24T09:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/yahoo-mail/</loc>
+    <lastmod>2024-01-31T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/crm/</loc>
     <lastmod>2023-09-10T10:00:00+08:00</lastmod>
