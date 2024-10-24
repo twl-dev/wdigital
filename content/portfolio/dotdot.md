@@ -21,7 +21,6 @@ cover:
 - Industry: Supplement Retail and E-Commerce 
 - Location: Hong Kong
 
-
 ## Project Brief
 To create a series of automated email campaigns by [Omnisend](https://www.omnisend.com) to entertain with different groups of customers. Trying to upsell and activate old customers by using Email Marketing.
 

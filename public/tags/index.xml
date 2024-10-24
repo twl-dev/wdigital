@@ -49,6 +49,20 @@
       <description></description>
     </item>
     <item>
+      <title>Event Marketing</title>
+      <link>http://localhost:1313/tags/event-marketing/</link>
+      <pubDate>Mon, 07 Oct 2024 10:05:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/event-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MC Services</title>
+      <link>http://localhost:1313/tags/mc-services/</link>
+      <pubDate>Mon, 07 Oct 2024 10:05:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/mc-services/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Google Ads</title>
       <link>http://localhost:1313/tags/google-ads/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
@@ -88,20 +102,6 @@
       <link>http://localhost:1313/tags/website-marketing/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/website-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Event Marketing</title>
-      <link>http://localhost:1313/tags/event-marketing/</link>
-      <pubDate>Wed, 02 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/event-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MC Services</title>
-      <link>http://localhost:1313/tags/mc-services/</link>
-      <pubDate>Wed, 02 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/mc-services/</guid>
       <description></description>
     </item>
     <item>
@@ -156,29 +156,92 @@
     <item>
       <title>E-Commerce</title>
       <link>http://localhost:1313/tags/e-commerce/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EDM</title>
+      <link>http://localhost:1313/tags/edm/</link>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/edm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Email Automation</title>
+      <link>http://localhost:1313/tags/email-automation/</link>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/email-automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Email Marketing</title>
       <link>http://localhost:1313/tags/email-marketing/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/email-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Omnisend</title>
       <link>http://localhost:1313/tags/omnisend/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/omnisend/</guid>
       <description></description>
     </item>
     <item>
       <title>Online Shopping</title>
       <link>http://localhost:1313/tags/online-shopping/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/online-shopping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>China Digital Marketing</title>
+      <link>http://localhost:1313/tags/china-digital-marketing/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/china-digital-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live Selling</title>
+      <link>http://localhost:1313/tags/live-selling/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/live-selling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online Selling</title>
+      <link>http://localhost:1313/tags/online-selling/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/online-selling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online Shop</title>
+      <link>http://localhost:1313/tags/online-shop/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/online-shop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shopline</title>
+      <link>http://localhost:1313/tags/shopline/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/shopline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media Marketing</title>
+      <link>http://localhost:1313/tags/social-media-marketing/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/social-media-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WeChat</title>
+      <link>http://localhost:1313/tags/wechat/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/wechat/</guid>
       <description></description>
     </item>
     <item>
@@ -186,20 +249,6 @@
       <link>http://localhost:1313/tags/crm/</link>
       <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/crm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EDM</title>
-      <link>http://localhost:1313/tags/edm/</link>
-      <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/edm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Online Shop</title>
-      <link>http://localhost:1313/tags/online-shop/</link>
-      <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/online-shop/</guid>
       <description></description>
     </item>
     <item>

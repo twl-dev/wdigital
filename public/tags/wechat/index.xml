@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WeChat on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
+    <link>http://localhost:1313/tags/wechat/</link>
+    <description>Recent content in WeChat on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</description>
+    <image>
+      <title>W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 24 Oct 2023 09:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wechat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guest Speaker Sharing -  How to leverage Threads in E-Commerce &amp; Digital Marketing at the CPAHK and SME Lab seminar</title>
+      <link>http://localhost:1313/portfolio/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
+      <pubDate>Tue, 24 Oct 2023 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/portfolio/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
+      <description>Join over 100 industry professionals in the cosmetics, beauty, medical, and healthcare sectors as they navigate the digital landscape.</description>
+    </item>
+  </channel>
+</rss>
