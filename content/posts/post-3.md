@@ -13,6 +13,7 @@ cover:
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   caption: "Is email marketing still important for e-Commerce in 2024?"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
+author: "Gladys Yip"
 ---
 
 The answer is definitely yes. And, as a digital specialist, we are pretty sure that emails will still hold its place for a very long time. Email marketing is still an essential strategy for e-commerce merchants due to its effectiveness in driving sales, building customer relationships, and maximizing revenue in 2024.

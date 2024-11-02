@@ -6,6 +6,8 @@ tags: ["Video SEO", "Video Marketing", "AR", "influencer Marketing", "threads", 
 categories: ["Video Marketing"]
 summary: "10 things that digital marketers should know in 2024"
 slug: "10-predictions-in-digital-marketing-and-social-media-trends-in-2024"
+authors: 
+  - Gladys Yip
 cover:
   image: "https://images.pexels.com/photos/6483623/pexels-photo-6483623.jpeg"
   alt: "10 predictions in digital marketing trend in 2024"

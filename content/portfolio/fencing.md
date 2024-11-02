@@ -21,7 +21,6 @@ cover:
 - Industry: Sports Education
 - Location: Hong Kong
 
-
 ## Project Brief
 Generate more leads from parents who are searching for the perfect summer courses for their children via Google.
 

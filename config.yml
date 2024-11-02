@@ -8,6 +8,12 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+outputs: 
+  home:
+  - HTML
+  - RSS
+  - JSON # necessary for search
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -17,7 +23,7 @@ params:
   title: W Digital Agency
   description: "W Digital Agency is a digital marketing agency based in Hong Kong that specializes in SEO, SEM, and E-commerce strategy for Southeast Asian markets. With over 10 years of experience, we provide data-driven solutions to help businesses thrive online."
   keywords: ["Digital marketing", "Online marketing", "SEO", "E-Commerce", "Website marketing"]
-  author: Gladys Yip
+  author: ["Gladys Yip"]
   # author: ["Me", "You"] # multiple authors
   images: ["images/logo.png"]
   imageWidth: 100
@@ -155,3 +161,8 @@ permalinks:
 services:
   googleAnalytics:
     id: G-F3P521BE2K
+
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags

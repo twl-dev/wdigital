@@ -12,6 +12,7 @@ cover:
   caption: "Are you aware of the latest email marketing requirements in 2024?"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 og_image: "https://images.pexels.com/photos/5426403/pexels-photo-5426403.jpeg"
+author: "Gladys Yip"
 ---
 
 In February 2024, both [Gmail](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/) and [Yahoo](https://blog.postmaster.yahooinc.com/post/737268108173230080/an-update-on-enforcing-email-standards) have implemented new email requirements. If you are a frequent email marketing sender, sending over 5000 emails per day, it is strongly advised to comply with the following requirements provided by these email service providers. Here are key factors to affect email marketing performance: 

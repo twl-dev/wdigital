@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/product-event-marketing-saramonic-global-launch-hongkong-2024/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/event-marketing/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mc-service/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/portfolio/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pr-management/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pro-audio/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/product-launch-campaign/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/product-marketing/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/saramonic/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-31T10:05:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/china-digital-marketing/</loc>
     <lastmod>2024-10-24T09:00:00+08:00</lastmod>
@@ -23,28 +59,16 @@
     <loc>http://localhost:1313/tags/online-shop/</loc>
     <lastmod>2024-10-24T09:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/portfolio/</loc>
-    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
-    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/shopline/</loc>
     <lastmod>2024-10-24T09:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/social-media-marketing/</loc>
     <lastmod>2024-10-24T09:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/threads/</loc>
     <lastmod>2024-10-24T09:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/video-marketing/</loc>
-    <lastmod>2024-10-24T09:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-24T09:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wechat/</loc>
@@ -56,9 +80,6 @@
     <loc>http://localhost:1313/tags/celebrity-management/</loc>
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/pr-management/</loc>
-    <lastmod>2024-10-10T10:05:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/video-seo/</loc>
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
@@ -66,9 +87,6 @@
     <lastmod>2024-10-10T10:05:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/event-marketing-management-business-mama-group-6th-anniversary-2024/</loc>
-    <lastmod>2024-10-07T10:05:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/event-marketing/</loc>
     <lastmod>2024-10-07T10:05:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mc-services/</loc>
@@ -131,6 +149,12 @@
     <loc>http://localhost:1313/tags/ar/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/gladys-yip/</loc>
+    <lastmod>2024-02-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/influencer-marketing/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -187,5 +211,9 @@
   </url><url>
     <loc>http://localhost:1313/portfolio/academy-fencing-hk-portfolio/</loc>
     <lastmod>2023-09-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
