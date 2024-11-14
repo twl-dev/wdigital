@@ -2,7 +2,7 @@
 title: "About W Digital"
 date: 2024-09-20T10:00:00+08:00
 draft: false
-summary: "About W Digital - a Hongkong-based leading digital marketing agency specializing in performance-driven advertising, website marketing, SEO, e-commerce marketing strategy and email marketing."
+description: "About W Digital - a Hongkong-based leading digital marketing agency specializing in performance-driven advertising, website marketing, SEO, e-commerce marketing strategy and email marketing."
 
 ---
 
@@ -12,6 +12,7 @@ W Digital Agency is a leading digital marketing agency specializing in:
 - Website marketing
 - SEO
 - E-commerce strategy 
+- Event marketing
 
 Our mission is to enable our clients to achieve their business objectives through our world-class digital marketing solutions. Our team is focused on delivering results, driving growth and engaging customers. We offer a proven track record of successful campaigns. Partner with us to take your online marketing efforts to the next level.
 

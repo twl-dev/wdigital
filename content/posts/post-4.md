@@ -5,6 +5,7 @@ draft: false
 tags: ["Email marketing", "Gmail", "Yahoo Mail", "Omnisend", "EDM"]
 categories: ["Email marketing"]
 summary: "Is email marketing still important in 2024?"
+description: Email is out-dated? My answer is no, because it is the most cost effective communication channel in B2B and e-Commerce business. You should be alert those new email marketing guidelines in 2024 in order to maintain a better performance in email marketing. 
 slug: "are-you-aware-of-the-latest-email-marketing-requirements-in-2024"
 cover:
   image: "https://images.pexels.com/photos/5426403/pexels-photo-5426403.jpeg"
