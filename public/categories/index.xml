@@ -11,13 +11,27 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 14 Nov 2024 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 08:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Marketing</title>
       <link>http://localhost:1313/categories/digital-marketing/</link>
-      <pubDate>Thu, 14 Nov 2024 08:00:00 +0800</pubDate>
+      <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/categories/digital-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event Marketing</title>
+      <link>http://localhost:1313/categories/event-marketing/</link>
+      <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/event-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Press Release</title>
+      <link>http://localhost:1313/categories/press-release/</link>
+      <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/press-release/</guid>
       <description></description>
     </item>
     <item>
