@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MC Service on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
-    <link>http://localhost:1313/tags/mc-service/</link>
-    <description>Recent content in MC Service on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</description>
+    <title>PR Marketing on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
+    <link>http://localhost:1313/tags/pr-marketing/</link>
+    <description>Recent content in PR Marketing on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</description>
     <image>
       <title>W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
       <url>http://localhost:1313/images/logo.png</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-uk</language>
-    <lastBuildDate>Thu, 31 Oct 2024 10:05:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mc-service/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Event Management and Product Launch Marketing - Saramonic Intercom WiTalk9 Global Launch in Hong Kong 2024</title>
-      <link>http://localhost:1313/portfolio/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</link>
-      <pubDate>Thu, 31 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:1313/portfolio/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</guid>
-      <description>Discover the Saramonic WiTalk9, a revolutionary wireless intercom headset system designed for high-intensity environments. With advanced noise cancellation and seamless connectivity, it redefines communication for film crews and event teams. Learn more about its features and benefits.</description>
-    </item>
+    <lastBuildDate>Fri, 23 Feb 2024 09:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pr-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav</title>
       <link>http://localhost:1313/portfolio/deity-microphones-viviana-sound-solutions/</link>
