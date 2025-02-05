@@ -1,4 +1,4 @@
-Welcome to [W Digital](https://www.wdigitalagency.com), your go-to partner for innovative digital marketing solutions. We help businesses grow online through data-driven strategies, cutting-edge technology, and creative expertise. Explore our services below to see how we can elevate your brand.
+Welcome to [W Digital](https://www.wdigitalagency.com), your go-to partner for innovative digital marketing solutions. We help businesses grow online through data-driven strategies, cutting-edge technology, and creative expertise. Explore our services below to see how we can elevate your brand. This is the website buily by [Hugo](https://gohugo.io/) and hosted by Github Pages. 
 
 ## Our Services:
 ### 1. Content Marketing Strategy
