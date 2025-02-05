@@ -93,10 +93,8 @@ params:
     google:
       SiteVerificationTag: "fNlHqYI2DhSABk4eSJOlX88v2H3FXHMY8CTlllHujzY"
     bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
-
+      SiteVerificationTag: "912C3B4CA099FA2106243F35957D5BB6"
+    
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
