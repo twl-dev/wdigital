@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 20 Dec 2024 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 08:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Email Marketing</title>
+      <link>http://localhost:1313/categories/email-marketing/</link>
+      <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/email-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing Automation</title>
+      <link>http://localhost:1313/categories/marketing-automation/</link>
+      <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/marketing-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Omnisend</title>
+      <link>http://localhost:1313/categories/omnisend/</link>
+      <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/omnisend/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Digital Marketing</title>
       <link>http://localhost:1313/categories/digital-marketing/</link>
@@ -74,13 +95,6 @@
       <link>http://localhost:1313/categories/e-commerce/</link>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/categories/e-commerce/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Email Marketing</title>
-      <link>http://localhost:1313/categories/email-marketing/</link>
-      <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/email-marketing/</guid>
       <description></description>
     </item>
   </channel>

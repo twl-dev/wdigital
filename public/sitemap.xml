@@ -2,14 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-05T08:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/automated-email/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-05T08:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/automated-marketing/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-12-20T08:00:00+08:00</lastmod>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/e-commerce/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/e-commerce-sales-conversion/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/email-marketing/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/email-marketing/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/marketing-automation/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/omnisend/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/omnisend/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shopify/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</loc>
+    <lastmod>2025-02-03T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/cpahk-webinar-digital-talk-on-dtspp/</loc>
     <lastmod>2024-12-20T08:00:00+08:00</lastmod>
@@ -32,9 +71,6 @@
     <loc>http://localhost:1313/tags/dtspp/</loc>
     <lastmod>2024-12-20T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/e-commerce/</loc>
-    <lastmod>2024-12-20T08:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/event-marketing/</loc>
     <lastmod>2024-12-20T08:00:00+08:00</lastmod>
   </url><url>
@@ -48,9 +84,6 @@
     <lastmod>2024-12-20T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sme-marketing/</loc>
-    <lastmod>2024-12-20T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-20T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/website-development/</loc>
@@ -260,16 +293,7 @@
     <loc>http://localhost:1313/tags/email-automation/</loc>
     <lastmod>2024-02-01T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/email-marketing/</loc>
-    <lastmod>2024-02-01T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/email-marketing/</loc>
-    <lastmod>2024-02-01T08:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</loc>
-    <lastmod>2024-02-01T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/omnisend/</loc>
     <lastmod>2024-02-01T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/online-shopping/</loc>
