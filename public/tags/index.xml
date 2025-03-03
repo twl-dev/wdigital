@@ -594,5 +594,47 @@
       <guid>http://localhost:1313/tags/social-media/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Guest Talk</title>
+      <link>http://localhost:1313/tags/guest-talk/</link>
+      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/guest-talk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HKPolyU</title>
+      <link>http://localhost:1313/tags/hkpolyu/</link>
+      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/hkpolyu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video Production</title>
+      <link>http://localhost:1313/tags/video-production/</link>
+      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/video-production/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Country Park</title>
+      <link>http://localhost:1313/tags/country-park/</link>
+      <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/country-park/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiking</title>
+      <link>http://localhost:1313/tags/hiking/</link>
+      <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/hiking/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
