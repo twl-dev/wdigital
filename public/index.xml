@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 25 Feb 2025 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 17:53:15 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparing WhatsApp Platforms: Basic, Business, and Business API</title>
+      <link>http://localhost:1313/whatsapp-platform-comparison-guide/</link>
+      <pubDate>Mon, 03 Mar 2025 17:53:15 +0800</pubDate>
+      <guid>http://localhost:1313/whatsapp-platform-comparison-guide/</guid>
+      <description>Comprehensive comparison of WhatsApp&amp;#39;s three main platforms - Basic, Business, and Business API - with feature breakdowns and implementation recommendations</description>
+    </item>
     <item>
       <title>Replace Contact Form 7 with Formspree: A Simpler, Smarter Solution for Your Website</title>
       <link>http://localhost:1313/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</link>
