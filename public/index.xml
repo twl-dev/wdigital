@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 03 Mar 2025 17:53:15 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 08:00:01 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Complete Guide to Omnisend Email Automation: Setup and Workflows</title>
+      <link>http://localhost:1313/omnisend-email-automation-guide/</link>
+      <pubDate>Tue, 04 Mar 2025 08:00:01 +0800</pubDate>
+      <guid>http://localhost:1313/omnisend-email-automation-guide/</guid>
+      <description>Master Omnisend email automation with our comprehensive guide. Learn how to create powerful automated workflows that boost sales and engagement.</description>
+    </item>
     <item>
       <title>Comparing WhatsApp Platforms: Basic, Business, and Business API</title>
       <link>http://localhost:1313/whatsapp-platform-comparison-guide/</link>

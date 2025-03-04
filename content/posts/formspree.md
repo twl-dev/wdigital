@@ -84,4 +84,3 @@ For more details, you can view the [Github repo](https://github.com/formspree/fo
 
   <button type="submit">Send</button>
 </form>
-

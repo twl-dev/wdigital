@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ecommerce on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
+    <link>http://localhost:1313/categories/ecommerce/</link>
+    <description>Recent content in Ecommerce on W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</description>
+    <image>
+      <title>W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market</title>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Mon, 03 Apr 2023 08:00:01 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Set Up an Automated Email Marketing Workflow with Omnisend</title>
+      <link>http://localhost:1313/automated-email-marketing-workflow-omnisend/</link>
+      <pubDate>Mon, 03 Apr 2023 08:00:01 +0800</pubDate>
+      <guid>http://localhost:1313/automated-email-marketing-workflow-omnisend/</guid>
+      <description>Learn how to create powerful automated email marketing workflows with Omnisend to boost your sales and customer engagement.</description>
+    </item>
+  </channel>
+</rss>
