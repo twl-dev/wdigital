@@ -1,28 +1,47 @@
 baseURL: https://www.wdigitalagency.com/
 languageCode: en-uk
-title: W Digital Agency | a digital marketing agency and consultation for the Southeast Asia market
+title: W Digital Agency | AI Automation & Digital Marketing Agency for Southeast Asia
 theme: ["PaperMod"]
 
+# Build settings
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-outputs: 
+outputs:
   home:
-  - HTML
-  - RSS
-  - JSON # necessary for search
+    - HTML
+    - RSS
+    - JSON # necessary for search
 
 minify:
   disableXML: true
   minifyOutput: true
 
+# Main parameters
 params:
+  # DocBox theme specific settings
+  logo: "images/logo.png"
+  logo_width: 100
+  logo_height: 100
+  logo_text: "W Digital Agency"
+  favicon: "images/logo.png"
+  
+  # Contact information
+  contact_form_action: "https://formspree.io/f/mvgpjneq" # Your current Formspree ID
+  contact_info:
+    email: "info@wdigitalagency.com" 
+    address: "Hong Kong"
+  
+  # Copyright text
+  copyright: "© {{ .Site.Params.year }} W Digital Agency. All Rights Reserved."
+  
+  # Original parameters that may still be relevant
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: W Digital Agency
-  description: "W Digital Agency is a digital marketing agency based in Hong Kong that specializes in SEO, SEM, and E-commerce strategy for Southeast Asian markets. With over 10 years of experience, we provide data-driven solutions to help businesses thrive online."
-  keywords: ["Digital marketing", "Online marketing", "SEO", "E-Commerce", "Website marketing"]
+  description: "W Digital Agency is a full-service digital consultancy based in Hong Kong specializing in AI automation, digital marketing, and content production. We provide AI automation consultation for SMEs, comprehensive digital marketing services (SEO, SEM, website optimization, CRM automation), and professional production services including video, podcast, and event management for the Southeast Asian market."
+  keywords: ["AI Automation", "Digital Marketing", "SEO", "SEM", "CRM Automation", "Video Production", "Podcast Production", "Event Management", "AI Consultation", "E-Commerce Strategy", "Website Marketing", "Business Automation"]
   author: ["Gladys Yip"]
   # author: ["Me", "You"] # multiple authors
   images: ["images/logo.png"]
@@ -67,7 +86,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: W Digital Agency
-    subtitle: "Your Digital Marketing Partner in Southeast Asia"
+    subtitle: "Your AI Automation & Digital Marketing Partner in Southeast Asia"
     imageUrl: "images/logo.png"
     imageWidth: 200
     imageHeight: 200
@@ -81,7 +100,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to W Digital Agency, a digital marketing consultancy and agency based in Hong Kong that specializes in website design, SEO, SEM, and e-commerce strategy for Southeast Asian markets.
+    Content: Welcome to W Digital Agency, a comprehensive digital consultancy based in Hong Kong. We specialize in AI automation for SMEs, digital marketing (SEO, SEM, CRM), and professional content production services including video, podcast, and event management for Southeast Asian markets.
   # social icons
   socialIcons:
     - name: threads
@@ -126,6 +145,25 @@ menu:
       name: Our Services
       url: /services/
       weight: 20
+      
+    - identifier: ai-automation
+      name: AI Automation
+      url: /services/ai-automation/
+      parent: services
+      weight: 21
+      
+    - identifier: digital-marketing
+      name: Digital Marketing
+      url: /services/digital-marketing/
+      parent: services
+      weight: 22
+      
+    - identifier: production
+      name: Production Services
+      url: /services/production/
+      parent: services
+      weight: 23
+      
     - identifier: Portfolio
       name: Portfolio
       url: /portfolio/
@@ -164,3 +202,8 @@ taxonomies:
   author: authors
   category: categories
   tag: tags
+
+# Consider adding these
+enableEmoji: true
+hasCJKLanguage: true  # Important for Hong Kong market
+defaultContentLanguage: "en"

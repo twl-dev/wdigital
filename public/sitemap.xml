@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/omnisend-email-automation-guide/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecommerce/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/ecommerce/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/email-marketing/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/marketing-automation/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/marketing-automation/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/omnisend-email-automation/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-04T08:00:01+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/api-integration/</loc>
     <lastmod>2025-03-03T17:53:15+08:00</lastmod>
   </url><url>
@@ -14,19 +47,7 @@
     <loc>http://localhost:1313/tags/business-solutions/</loc>
     <lastmod>2025-03-03T17:53:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-03-03T17:53:15+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/whatsapp-platform-comparison-guide/</loc>
-    <lastmod>2025-03-03T17:53:15+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-03T17:53:15+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-03T17:53:15+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-03T17:53:15+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/whatsapp/</loc>
@@ -86,13 +107,7 @@
     <loc>http://localhost:1313/tags/e-commerce-sales-conversion/</loc>
     <lastmod>2025-02-04T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/email-marketing/</loc>
-    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/email-marketing/</loc>
-    <lastmod>2025-02-04T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/marketing-automation/</loc>
     <lastmod>2025-02-04T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/omnisend/</loc>
