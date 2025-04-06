@@ -94,8 +94,8 @@ params:
     buttons:
       - name: Our Services
         url: /services/
-      - name: Portfolio
-        url: /portfolio/
+      - name: Portfolios
+        url: /portfolios/
 
   # home-info mode
   homeInfoParams:
@@ -164,9 +164,9 @@ menu:
       parent: services
       weight: 23
       
-    - identifier: Portfolio
-      name: Portfolio
-      url: /portfolio/
+    - identifier: Portfolios
+      name: Portfolios
+      url: /portfolios/
       weight: 30
     - identifier: Blogs
       name: Blogs
