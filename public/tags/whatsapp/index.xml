@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whatsapp on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50011/tags/whatsapp/</link>
+    <link>http://localhost:50255/tags/whatsapp/</link>
     <description>Recent content in Whatsapp on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <image>
-      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>http://localhost:50011/images/logo.png</url>
-      <link>http://localhost:50011/images/logo.png</link>
-    </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 03 Mar 2025 17:53:15 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50011/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50255/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparing WhatsApp Platforms: Basic, Business, and Business API</title>
-      <link>http://localhost:50011/whatsapp-platform-comparison-guide/</link>
+      <link>http://localhost:50255/whatsapp-platform-comparison-guide/</link>
       <pubDate>Mon, 03 Mar 2025 17:53:15 +0800</pubDate>
-      <guid>http://localhost:50011/whatsapp-platform-comparison-guide/</guid>
-      <description>Comprehensive comparison of WhatsApp&amp;#39;s three main platforms - Basic, Business, and Business API - with feature breakdowns and implementation recommendations</description>
+      <guid>http://localhost:50255/whatsapp-platform-comparison-guide/</guid>
+      <description>Detailed analysis of WhatsApp&amp;rsquo;s tiered platform offerings for different business needs and scales</description>
     </item>
   </channel>
 </rss>

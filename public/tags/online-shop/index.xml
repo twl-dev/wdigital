@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online Shop on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50011/tags/online-shop/</link>
+    <link>http://localhost:50255/tags/online-shop/</link>
     <description>Recent content in Online Shop on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <image>
-      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>http://localhost:50011/images/logo.png</url>
-      <link>http://localhost:50011/images/logo.png</link>
-    </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 24 Oct 2024 09:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50011/tags/online-shop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50255/tags/online-shop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guest Speaker Sharing -  How to leverage Threads in E-Commerce &amp; Digital Marketing at the CPAHK and SME Lab Seminar</title>
-      <link>http://localhost:50011/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
+      <link>http://localhost:50255/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
       <pubDate>Thu, 24 Oct 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
+      <guid>http://localhost:50255/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
       <description>Join over 100 industry professionals in the cosmetics, beauty, medical, and healthcare sectors as they navigate the digital landscape.</description>
     </item>
     <item>
       <title>DotDot HK - E Commerce Strategy and Email Marketing</title>
-      <link>http://localhost:50011/portfolios/dotdot-hk-portfolio/</link>
+      <link>http://localhost:50255/portfolios/dotdot-hk-portfolio/</link>
       <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/portfolios/dotdot-hk-portfolio/</guid>
+      <guid>http://localhost:50255/portfolios/dotdot-hk-portfolio/</guid>
       <description>Transform your digital marketing strategy with our hands-on approach, designed to tackle the unique challenges businesses face today. Our expert team specializes in SEO, PPC, social media, and content marketing, crafting tailored strategies that align with your goals. Stay ahead of the competition by leveraging our up-to-date industry insights.</description>
     </item>
   </channel>

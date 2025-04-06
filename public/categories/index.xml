@@ -1,121 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50011/categories/</link>
+    <link>http://localhost:50255/categories/</link>
     <description>Recent content in Categories on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <image>
-      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>http://localhost:50011/images/logo.png</url>
-      <link>http://localhost:50011/images/logo.png</link>
-    </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 04 Mar 2025 08:00:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50011/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50255/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecommerce</title>
-      <link>http://localhost:50011/categories/ecommerce/</link>
+      <link>http://localhost:50255/categories/ecommerce/</link>
       <pubDate>Tue, 04 Mar 2025 08:00:01 +0800</pubDate>
-      <guid>http://localhost:50011/categories/ecommerce/</guid>
+      <guid>http://localhost:50255/categories/ecommerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing Automation</title>
-      <link>http://localhost:50011/categories/marketing-automation/</link>
+      <link>http://localhost:50255/categories/marketing-automation/</link>
       <pubDate>Tue, 04 Mar 2025 08:00:01 +0800</pubDate>
-      <guid>http://localhost:50011/categories/marketing-automation/</guid>
+      <guid>http://localhost:50255/categories/marketing-automation/</guid>
       <description></description>
     </item>
     <item>
       <title>Automated Marketing</title>
-      <link>http://localhost:50011/categories/automated-marketing/</link>
+      <link>http://localhost:50255/categories/automated-marketing/</link>
       <pubDate>Mon, 03 Mar 2025 17:53:15 +0800</pubDate>
-      <guid>http://localhost:50011/categories/automated-marketing/</guid>
+      <guid>http://localhost:50255/categories/automated-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>WhatsApp Marketing</title>
-      <link>http://localhost:50011/categories/whatsapp-marketing/</link>
+      <link>http://localhost:50255/categories/whatsapp-marketing/</link>
       <pubDate>Mon, 03 Mar 2025 17:53:15 +0800</pubDate>
-      <guid>http://localhost:50011/categories/whatsapp-marketing/</guid>
+      <guid>http://localhost:50255/categories/whatsapp-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Email Marketing</title>
-      <link>http://localhost:50011/categories/email-marketing/</link>
+      <link>http://localhost:50255/categories/email-marketing/</link>
       <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/email-marketing/</guid>
+      <guid>http://localhost:50255/categories/email-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Omnisend</title>
-      <link>http://localhost:50011/categories/omnisend/</link>
+      <link>http://localhost:50255/categories/omnisend/</link>
       <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/omnisend/</guid>
+      <guid>http://localhost:50255/categories/omnisend/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Marketing</title>
-      <link>http://localhost:50011/categories/digital-marketing/</link>
+      <link>http://localhost:50255/categories/digital-marketing/</link>
       <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/digital-marketing/</guid>
+      <guid>http://localhost:50255/categories/digital-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Event Marketing</title>
-      <link>http://localhost:50011/categories/event-marketing/</link>
+      <link>http://localhost:50255/categories/event-marketing/</link>
       <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/event-marketing/</guid>
+      <guid>http://localhost:50255/categories/event-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Press Release</title>
-      <link>http://localhost:50011/categories/press-release/</link>
+      <link>http://localhost:50255/categories/press-release/</link>
       <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/press-release/</guid>
+      <guid>http://localhost:50255/categories/press-release/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:50011/categories/portfolio/</link>
+      <link>http://localhost:50255/categories/portfolio/</link>
       <pubDate>Fri, 22 Nov 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/portfolio/</guid>
+      <guid>http://localhost:50255/categories/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>http://localhost:50011/categories/web-development/</link>
+      <link>http://localhost:50255/categories/web-development/</link>
       <pubDate>Thu, 14 Nov 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/web-development/</guid>
+      <guid>http://localhost:50255/categories/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Infrastructure</title>
-      <link>http://localhost:50011/categories/infrastructure/</link>
+      <link>http://localhost:50255/categories/infrastructure/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50011/categories/infrastructure/</guid>
+      <guid>http://localhost:50255/categories/infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Website Marketing</title>
-      <link>http://localhost:50011/categories/website-marketing/</link>
+      <link>http://localhost:50255/categories/website-marketing/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50011/categories/website-marketing/</guid>
+      <guid>http://localhost:50255/categories/website-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Video Marketing</title>
-      <link>http://localhost:50011/categories/video-marketing/</link>
+      <link>http://localhost:50255/categories/video-marketing/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50011/categories/video-marketing/</guid>
+      <guid>http://localhost:50255/categories/video-marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>http://localhost:50011/categories/e-commerce/</link>
+      <link>http://localhost:50255/categories/e-commerce/</link>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/categories/e-commerce/</guid>
+      <guid>http://localhost:50255/categories/e-commerce/</guid>
       <description></description>
     </item>
   </channel>

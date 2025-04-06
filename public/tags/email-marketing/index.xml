@@ -1,58 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email Marketing on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50011/tags/email-marketing/</link>
+    <link>http://localhost:50255/tags/email-marketing/</link>
     <description>Recent content in Email Marketing on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <image>
-      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>http://localhost:50011/images/logo.png</url>
-      <link>http://localhost:50011/images/logo.png</link>
-    </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 04 Mar 2025 08:00:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50011/tags/email-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50255/tags/email-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complete Guide to Omnisend Email Automation: Setup and Workflows</title>
-      <link>http://localhost:50011/omnisend-email-automation-guide/</link>
+      <link>http://localhost:50255/omnisend-email-automation-guide/</link>
       <pubDate>Tue, 04 Mar 2025 08:00:01 +0800</pubDate>
-      <guid>http://localhost:50011/omnisend-email-automation-guide/</guid>
-      <description>Master Omnisend email automation with our comprehensive guide. Learn how to create powerful automated workflows that boost sales and engagement.</description>
+      <guid>http://localhost:50255/omnisend-email-automation-guide/</guid>
+      <description>Discover how to leverage Omnisend email automation to create effective marketing workflows and drive ecommerce success.</description>
     </item>
     <item>
       <title>Save Time and Boost Revenue: How Automated Email Transform Your E-Shop Business</title>
-      <link>http://localhost:50011/save-time-and-boost-revenue-by-automated-email-service/</link>
+      <link>http://localhost:50255/save-time-and-boost-revenue-by-automated-email-service/</link>
       <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/save-time-and-boost-revenue-by-automated-email-service/</guid>
-      <description>Discover how automated email for eshop can save you time and increase revenue. Learn about Omnisend’s powerful features, real-world benefits, and how to get started. Book a free consultation today!</description>
+      <guid>http://localhost:50255/save-time-and-boost-revenue-by-automated-email-service/</guid>
+      <description>Looking to boost your e-commerce sales conversion rate? Omnisend’s automated email marketing is your ultimate solution! This article dives deep into Omnisend’s core features, real-life case studies, and how automated emails can skyrocket your revenue. Learn more and book a free consultation today!</description>
     </item>
     <item>
       <title>Essential for E-commerce! How Omnisend’s Automated Email Marketing Can Boost Your Sales Conversion Rate</title>
-      <link>http://localhost:50011/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</link>
+      <link>http://localhost:50255/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</link>
       <pubDate>Mon, 03 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</guid>
+      <guid>http://localhost:50255/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</guid>
       <description>Looking to boost your e-commerce sales conversion rate? Omnisend’s automated email marketing is your ultimate solution! This article dives deep into Omnisend’s core features, real-life case studies, and how automated emails can skyrocket your revenue. Learn more and book a free consultation today!</description>
     </item>
     <item>
       <title>Is email marketing still valid and crucial for sales and E-Commerce in 2024?</title>
-      <link>http://localhost:50011/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</link>
+      <link>http://localhost:50255/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</link>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</guid>
-      <description>W Digital is definitely sure that emails will still hold its place for a very long time. Email marketing is still an essential strategy for e-commerce merchants due to its effectiveness in driving sales, building customer relationships, and maximizing revenue in 2024.</description>
+      <guid>http://localhost:50255/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</guid>
+      <description>Is email marketing still important in 2024?</description>
     </item>
     <item>
       <title>Are you aware of the latest email marketing requirements in 2024?</title>
-      <link>http://localhost:50011/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</link>
+      <link>http://localhost:50255/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</link>
       <pubDate>Wed, 31 Jan 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</guid>
-      <description>Email is out-dated? My answer is no, because it is the most cost effective communication channel in B2B and e-Commerce business. You should be alert those new email marketing guidelines in 2024 in order to maintain a better performance in email marketing.</description>
+      <guid>http://localhost:50255/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</guid>
+      <description>Is email marketing still important in 2024?</description>
     </item>
     <item>
       <title>DotDot HK - E Commerce Strategy and Email Marketing</title>
-      <link>http://localhost:50011/portfolios/dotdot-hk-portfolio/</link>
+      <link>http://localhost:50255/portfolios/dotdot-hk-portfolio/</link>
       <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50011/portfolios/dotdot-hk-portfolio/</guid>
+      <guid>http://localhost:50255/portfolios/dotdot-hk-portfolio/</guid>
       <description>Transform your digital marketing strategy with our hands-on approach, designed to tackle the unique challenges businesses face today. Our expert team specializes in SEO, PPC, social media, and content marketing, crafting tailored strategies that align with your goals. Stay ahead of the competition by leveraging our up-to-date industry insights.</description>
     </item>
   </channel>
