@@ -9,7 +9,7 @@
       <url>http://localhost:1313/images/logo.png</url>
       <link>http://localhost:1313/images/logo.png</link>
     </image>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 31 Oct 2024 10:05:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/product-launch-campaign/index.xml" rel="self" type="application/rss+xml" />

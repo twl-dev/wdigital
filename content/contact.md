@@ -4,6 +4,8 @@ date: 2024-09-30T10:00:00+08:00
 draft: false
 summary: "Contact W Digital for AI automation, digital marketing strategies, and production services."
 layout: contact # You might want to add this if the theme has a specific contact layout
+params:
+  contact_form_action: "https://formspree.io/f/mvgpjneq"
 ---
 
 # Contact Us
@@ -46,12 +48,13 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
   </div>
   
   <div class="form-group">
-    <label class="checkbox-label" style="display: flex; align-items: center; gap: 0.5rem;">
-      <input type="checkbox" name="consent" required style="margin: 0;">
-      <span>I agree to the privacy policy and consent to being contacted</span>
+    <label class="checkbox-label" style="display: block; margin-bottom: 0.5rem;">
+      <div style="display: flex; align-items: center; gap: 0.5rem;">
+        <input type="checkbox" name="consent" required style="margin: 0;">
+        <span style="line-height: 1.4;">I agree to the privacy policy and consent to being contacted</span>
+      </div>
     </label>
   </div>
-  
   <button type="submit" class="submit-button">
     <span class="default-text">Send Message</span>
     <span class="loading-text" style="display: none;">Sending...</span>
