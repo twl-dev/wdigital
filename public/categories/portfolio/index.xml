@@ -1,74 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolio on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50255/categories/portfolio/</link>
+    <link>https://www.wdigitalagency.com/categories/portfolio/</link>
     <description>Recent content in Portfolio on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Fri, 22 Nov 2024 10:05:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50255/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HKUST&#39;s Career Planning Workshop in the Digital Industry: Essential Skills for Personal Branding and Future&#39;s Success</title>
-      <link>http://localhost:50255/portfolios/hkust-career-planning-workshop-for-science-students-2024/</link>
+      <link>https://www.wdigitalagency.com/portfolios/hkust-career-planning-workshop-for-science-students-2024/</link>
       <pubDate>Fri, 22 Nov 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/hkust-career-planning-workshop-for-science-students-2024/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/hkust-career-planning-workshop-for-science-students-2024/</guid>
       <description>Discover essential skills for success in the digital marketing industry through our recent seminar at HKUST. Learn from industry experts about the importance of sales skills, effective job hunting strategies, and innovative tools for career planning. Ideal for schools and organizations seeking career coaching for students and teenagers. Contact us to learn more!</description>
     </item>
     <item>
       <title>Event Management and Product Launch Marketing - Saramonic Intercom WiTalk9 Global Launch in Hong Kong 2024</title>
-      <link>http://localhost:50255/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</link>
+      <link>https://www.wdigitalagency.com/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</link>
       <pubDate>Thu, 31 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</guid>
       <description>Discover the Saramonic WiTalk9, a revolutionary wireless intercom headset system designed for high-intensity environments. With advanced noise cancellation and seamless connectivity, it redefines communication for film crews and event teams. Learn more about its features and benefits.</description>
     </item>
     <item>
       <title>Guest Speaker Sharing -  How to leverage Threads in E-Commerce &amp; Digital Marketing at the CPAHK and SME Lab Seminar</title>
-      <link>http://localhost:50255/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
+      <link>https://www.wdigitalagency.com/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
       <pubDate>Thu, 24 Oct 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
       <description>Join over 100 industry professionals in the cosmetics, beauty, medical, and healthcare sectors as they navigate the digital landscape.</description>
     </item>
     <item>
       <title>Behind the Scenes: Launching Alice Fung So Bor&#39;s YouTube Channel - A Case Study in Content Production and PR</title>
-      <link>http://localhost:50255/portfolios/launching-alice-fung-so-bor-youtube-channel/</link>
+      <link>https://www.wdigitalagency.com/portfolios/launching-alice-fung-so-bor-youtube-channel/</link>
       <pubDate>Thu, 10 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/launching-alice-fung-so-bor-youtube-channel/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/launching-alice-fung-so-bor-youtube-channel/</guid>
       <description>Explore the strategic launch of Alice Fung So Bor&amp;rsquo;s YouTube channel, featuring a celebrity interview, professional production, and effective PR tactics. Discover how we achieved over 15,000 views and 200+ likes through engaging content development and audience engagement strategies.</description>
     </item>
     <item>
       <title>Celebrate Six Years of Business Mama Group: A Night of Inspiration and Connection</title>
-      <link>http://localhost:50255/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</link>
+      <link>https://www.wdigitalagency.com/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</link>
       <pubDate>Mon, 07 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</guid>
       <description>On September 27, 2024, the Business Mama Group (BMG) celebrated its sixth anniversary with a spectacular dinner in Jordan. Over 100 guests gathered for an evening filled with heartfelt speeches from branch chairs, captivating performances by talented entrepreneurial mothers, and an exciting lucky draw featuring prizes worth over HKD 100,000. With seamless PR services and engaging MCs, the event was a beautiful tribute to resilience and community spirit among women entrepreneurs.</description>
     </item>
     <item>
       <title>Case Study: AC Home - SEO and SEM Strategies for Lead Generation of a Air Con Cleaning and Repairing Company in Hong Kong</title>
-      <link>http://localhost:50255/portfolios/achomehk/</link>
+      <link>https://www.wdigitalagency.com/portfolios/achomehk/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/achomehk/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/achomehk/</guid>
       <description>Explore how AC Home improved lead generation by shifting focus from competitive keywords to high-intent phrases like &amp;lsquo;Repairing Air Con&amp;rsquo; and &amp;lsquo;Fixing Air Con Leaking Water.&amp;rsquo;</description>
     </item>
     <item>
       <title>DotDot HK - E Commerce Strategy and Email Marketing</title>
-      <link>http://localhost:50255/portfolios/dotdot-hk-portfolio/</link>
+      <link>https://www.wdigitalagency.com/portfolios/dotdot-hk-portfolio/</link>
       <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/dotdot-hk-portfolio/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/dotdot-hk-portfolio/</guid>
       <description>Transform your digital marketing strategy with our hands-on approach, designed to tackle the unique challenges businesses face today. Our expert team specializes in SEO, PPC, social media, and content marketing, crafting tailored strategies that align with your goals. Stay ahead of the competition by leveraging our up-to-date industry insights.</description>
     </item>
     <item>
       <title>DamDam Birdnest Limited - Advice On Digital Advertisement</title>
-      <link>http://localhost:50255/portfolios/damdambirdnest-portfolio/</link>
+      <link>https://www.wdigitalagency.com/portfolios/damdambirdnest-portfolio/</link>
       <pubDate>Sat, 09 Sep 2023 00:10:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/damdambirdnest-portfolio/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/damdambirdnest-portfolio/</guid>
       <description>DamDam Birdnest, a Hongkong-based online shop selling edible bird&amp;rsquo;s nests and Chinese sweet soup, looked for digital advice on Google Search Marketing and Social Media Ads.</description>
     </item>
     <item>
       <title>The Academy of Fencing Hong Kong - Google Ads Consultation</title>
-      <link>http://localhost:50255/portfolios/academy-fencing-hk-portfolio/</link>
+      <link>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</link>
       <pubDate>Fri, 01 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/academy-fencing-hk-portfolio/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</guid>
       <description>Academy of Fencing (Hong Kong), a local fencing school looks for more leads during the summer period, as this is their first time of using Google Ads and search engine marketing. The lead quality is much better than on social media platforms.</description>
     </item>
   </channel>

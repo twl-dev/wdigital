@@ -1,25 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Automated Email on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50255/tags/automated-email/</link>
+    <link>https://www.wdigitalagency.com/tags/automated-email/</link>
     <description>Recent content in Automated Email on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 04 Feb 2025 08:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50255/tags/automated-email/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/tags/automated-email/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Save Time and Boost Revenue: How Automated Email Transform Your E-Shop Business</title>
-      <link>http://localhost:50255/save-time-and-boost-revenue-by-automated-email-service/</link>
+      <link>https://www.wdigitalagency.com/save-time-and-boost-revenue-by-automated-email-service/</link>
       <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/save-time-and-boost-revenue-by-automated-email-service/</guid>
-      <description>Looking to boost your e-commerce sales conversion rate? Omnisend’s automated email marketing is your ultimate solution! This article dives deep into Omnisend’s core features, real-life case studies, and how automated emails can skyrocket your revenue. Learn more and book a free consultation today!</description>
+      <guid>https://www.wdigitalagency.com/save-time-and-boost-revenue-by-automated-email-service/</guid>
+      <description>Discover how automated email for eshop can save you time and increase revenue. Learn about Omnisend’s powerful features, real-world benefits, and how to get started. Book a free consultation today!</description>
     </item>
     <item>
       <title>Essential for E-commerce! How Omnisend’s Automated Email Marketing Can Boost Your Sales Conversion Rate</title>
-      <link>http://localhost:50255/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</link>
+      <link>https://www.wdigitalagency.com/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</link>
       <pubDate>Mon, 03 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</guid>
+      <guid>https://www.wdigitalagency.com/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</guid>
       <description>Looking to boost your e-commerce sales conversion rate? Omnisend’s automated email marketing is your ultimate solution! This article dives deep into Omnisend’s core features, real-life case studies, and how automated emails can skyrocket your revenue. Learn more and book a free consultation today!</description>
     </item>
   </channel>

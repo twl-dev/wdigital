@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>WordPress on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50255/tags/wordpress/</link>
+    <link>https://www.wdigitalagency.com/tags/wordpress/</link>
     <description>Recent content in WordPress on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 14 Nov 2024 08:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50255/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are You Planning to Build Your Own Website? Here Are Our Suggestions for CMS in 2024</title>
-      <link>http://localhost:50255/buidling-website-cms-suggestions-2024/</link>
+      <link>https://www.wdigitalagency.com/buidling-website-cms-suggestions-2024/</link>
       <pubDate>Thu, 14 Nov 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/buidling-website-cms-suggestions-2024/</guid>
-      <description>&lt;p&gt;With the ever-evolving digital landscape, choosing the right Content Management System (CMS) is crucial. In 2024, there are numerous options available, each with unique benefits tailored to different needs. Here’s a comprehensive guide to help you identify your objectives, estimate your budget, and choose the best CMS for your project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;identify-your-objectives&#34;&gt;Identify Your Objectives&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into the technical aspects, it’s essential to clarify &lt;strong&gt;what your website will be used for&lt;/strong&gt;. Consider the following questions:&lt;/p&gt;</description>
+      <guid>https://www.wdigitalagency.com/buidling-website-cms-suggestions-2024/</guid>
+      <description>A comprehensive guide for individuals and new companies to choosing the right CMS for your website in 2024, covering objectives, budget considerations, and top platform recommendations.</description>
     </item>
   </channel>
 </rss>

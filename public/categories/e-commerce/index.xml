@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>E-Commerce on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50255/categories/e-commerce/</link>
+    <link>https://www.wdigitalagency.com/categories/e-commerce/</link>
     <description>Recent content in E-Commerce on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 01 Feb 2024 08:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50255/categories/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/categories/e-commerce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is email marketing still valid and crucial for sales and E-Commerce in 2024?</title>
-      <link>http://localhost:50255/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</link>
+      <link>https://www.wdigitalagency.com/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</link>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</guid>
-      <description>Is email marketing still important in 2024?</description>
+      <guid>https://www.wdigitalagency.com/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</guid>
+      <description>W Digital is definitely sure that emails will still hold its place for a very long time. Email marketing is still an essential strategy for e-commerce merchants due to its effectiveness in driving sales, building customer relationships, and maximizing revenue in 2024.</description>
     </item>
   </channel>
 </rss>

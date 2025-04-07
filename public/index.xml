@@ -1,215 +1,231 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50255/</link>
+    <link>https://www.wdigitalagency.com/</link>
     <description>Recent content on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 04 Mar 2025 08:00:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50255/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complete Guide to Omnisend Email Automation: Setup and Workflows</title>
-      <link>http://localhost:50255/omnisend-email-automation-guide/</link>
+      <link>https://www.wdigitalagency.com/omnisend-email-automation-guide/</link>
       <pubDate>Tue, 04 Mar 2025 08:00:01 +0800</pubDate>
-      <guid>http://localhost:50255/omnisend-email-automation-guide/</guid>
-      <description>Discover how to leverage Omnisend email automation to create effective marketing workflows and drive ecommerce success.</description>
+      <guid>https://www.wdigitalagency.com/omnisend-email-automation-guide/</guid>
+      <description>Master Omnisend email automation with our comprehensive guide. Learn how to create powerful automated workflows that boost sales and engagement.</description>
     </item>
     <item>
       <title>Comparing WhatsApp Platforms: Basic, Business, and Business API</title>
-      <link>http://localhost:50255/whatsapp-platform-comparison-guide/</link>
+      <link>https://www.wdigitalagency.com/whatsapp-platform-comparison-guide/</link>
       <pubDate>Mon, 03 Mar 2025 17:53:15 +0800</pubDate>
-      <guid>http://localhost:50255/whatsapp-platform-comparison-guide/</guid>
-      <description>Detailed analysis of WhatsApp&amp;rsquo;s tiered platform offerings for different business needs and scales</description>
+      <guid>https://www.wdigitalagency.com/whatsapp-platform-comparison-guide/</guid>
+      <description>Comprehensive comparison of WhatsApp&amp;#39;s three main platforms - Basic, Business, and Business API - with feature breakdowns and implementation recommendations</description>
     </item>
     <item>
       <title>Replace Contact Form 7 with Formspree: A Simpler, Smarter Solution for Your Website</title>
-      <link>http://localhost:50255/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</link>
+      <link>https://www.wdigitalagency.com/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</link>
       <pubDate>Tue, 25 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</guid>
+      <guid>https://www.wdigitalagency.com/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</guid>
       <description>Tired of Contact Form 7’s clunky plugin, maintenance hassles, and CAPTCHA issues? Discover why Formspree is the perfect alternative—no plugins, no maintenance, and no spam headaches. Learn how to make the switch today!</description>
     </item>
     <item>
       <title>Save Time and Boost Revenue: How Automated Email Transform Your E-Shop Business</title>
-      <link>http://localhost:50255/save-time-and-boost-revenue-by-automated-email-service/</link>
+      <link>https://www.wdigitalagency.com/save-time-and-boost-revenue-by-automated-email-service/</link>
       <pubDate>Tue, 04 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/save-time-and-boost-revenue-by-automated-email-service/</guid>
-      <description>Looking to boost your e-commerce sales conversion rate? Omnisend’s automated email marketing is your ultimate solution! This article dives deep into Omnisend’s core features, real-life case studies, and how automated emails can skyrocket your revenue. Learn more and book a free consultation today!</description>
+      <guid>https://www.wdigitalagency.com/save-time-and-boost-revenue-by-automated-email-service/</guid>
+      <description>Discover how automated email for eshop can save you time and increase revenue. Learn about Omnisend’s powerful features, real-world benefits, and how to get started. Book a free consultation today!</description>
     </item>
     <item>
       <title>Essential for E-commerce! How Omnisend’s Automated Email Marketing Can Boost Your Sales Conversion Rate</title>
-      <link>http://localhost:50255/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</link>
+      <link>https://www.wdigitalagency.com/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</link>
       <pubDate>Mon, 03 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</guid>
+      <guid>https://www.wdigitalagency.com/boost-your-e-commerce-sales-conversion-by-omnisend-automated-email/</guid>
       <description>Looking to boost your e-commerce sales conversion rate? Omnisend’s automated email marketing is your ultimate solution! This article dives deep into Omnisend’s core features, real-life case studies, and how automated emails can skyrocket your revenue. Learn more and book a free consultation today!</description>
     </item>
     <item>
       <title>CPAHK Webinar Highlights Digital Marketing&#39;s Impact on Beauty and Cosmetics Industry</title>
-      <link>http://localhost:50255/portfolios/cpahk-webinar-digital-talk-on-dtspp/</link>
+      <link>https://www.wdigitalagency.com/portfolios/cpahk-webinar-digital-talk-on-dtspp/</link>
       <pubDate>Fri, 20 Dec 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/cpahk-webinar-digital-talk-on-dtspp/</guid>
-      <description>&lt;p&gt;Hong Kong – On December 19, 2024, &lt;a href=&#34;https://www.cosmetic.org.hk/&#34;&gt;the Cosmetic &amp;amp; Perfumery Association of Hong Kong&lt;/a&gt; (CPAHK) hosted a successful webinar that attracted over 20 merchants from the beauty and cosmetics sector. The session focused on the pivotal role of digital marketing in facilitating digital transformation for small-to-medium enterprises (SMEs) in Hong Kong.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.wingleung.me/wp-content/uploads/2025/01/CPAHK-digital-talk.jpg&#34; alt=&#34;Webinar on digital transformation with financial support by DTSPP, a Hong Kong Cyberport fund&#34;  /&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-digital-transformation-support-pilot-program-dtspp&#34;&gt;About Digital Transformation Support Pilot Program, DTSPP&lt;/h2&gt;&#xA;&lt;p&gt;The webinar emphasized critical areas such as &lt;strong&gt;e-commerce&lt;/strong&gt;, &lt;strong&gt;website marketing&lt;/strong&gt;, and &lt;strong&gt;digital advertising&lt;/strong&gt;, providing valuable insights into how these elements can enhance business operations and customer engagement. Participants were introduced to the &lt;strong&gt;&lt;a href=&#34;https://dtspp.cyberport.hk&#34;&gt;Digital Transformation Support Pilot Programme&lt;/a&gt; (DTSPP)&lt;/strong&gt;, an initiative by HK Cyberport designed to assist SMEs in adopting ready-to-use digital solutions. This program features a &lt;strong&gt;1:1 matching funding scheme&lt;/strong&gt;, allowing participants to receive financial support to improve their operational efficiency and competitiveness within the industry.&lt;/p&gt;</description>
+      <guid>https://www.wdigitalagency.com/portfolios/cpahk-webinar-digital-talk-on-dtspp/</guid>
+      <description>the Cosmetic &amp;amp; Perfumery Association of Hong Kong (CPAHK) hosted a successful webinar that attracted over 20 merchants from the beauty and cosmetics sector. The session focused on the pivotal role of digital marketing in facilitating digital transformation for small-to-medium enterprises (SMEs) in Hong Kong</description>
     </item>
     <item>
       <title>HKUST&#39;s Career Planning Workshop in the Digital Industry: Essential Skills for Personal Branding and Future&#39;s Success</title>
-      <link>http://localhost:50255/portfolios/hkust-career-planning-workshop-for-science-students-2024/</link>
+      <link>https://www.wdigitalagency.com/portfolios/hkust-career-planning-workshop-for-science-students-2024/</link>
       <pubDate>Fri, 22 Nov 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/hkust-career-planning-workshop-for-science-students-2024/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/hkust-career-planning-workshop-for-science-students-2024/</guid>
       <description>Discover essential skills for success in the digital marketing industry through our recent seminar at HKUST. Learn from industry experts about the importance of sales skills, effective job hunting strategies, and innovative tools for career planning. Ideal for schools and organizations seeking career coaching for students and teenagers. Contact us to learn more!</description>
     </item>
     <item>
       <title>Are You Planning to Build Your Own Website? Here Are Our Suggestions for CMS in 2024</title>
-      <link>http://localhost:50255/buidling-website-cms-suggestions-2024/</link>
+      <link>https://www.wdigitalagency.com/buidling-website-cms-suggestions-2024/</link>
       <pubDate>Thu, 14 Nov 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/buidling-website-cms-suggestions-2024/</guid>
-      <description>&lt;p&gt;With the ever-evolving digital landscape, choosing the right Content Management System (CMS) is crucial. In 2024, there are numerous options available, each with unique benefits tailored to different needs. Here’s a comprehensive guide to help you identify your objectives, estimate your budget, and choose the best CMS for your project.&lt;/p&gt;&#xA;&lt;h2 id=&#34;identify-your-objectives&#34;&gt;Identify Your Objectives&lt;/h2&gt;&#xA;&lt;p&gt;Before diving into the technical aspects, it’s essential to clarify &lt;strong&gt;what your website will be used for&lt;/strong&gt;. Consider the following questions:&lt;/p&gt;</description>
+      <guid>https://www.wdigitalagency.com/buidling-website-cms-suggestions-2024/</guid>
+      <description>A comprehensive guide for individuals and new companies to choosing the right CMS for your website in 2024, covering objectives, budget considerations, and top platform recommendations.</description>
     </item>
     <item>
       <title>Event Management and Product Launch Marketing - Saramonic Intercom WiTalk9 Global Launch in Hong Kong 2024</title>
-      <link>http://localhost:50255/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</link>
+      <link>https://www.wdigitalagency.com/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</link>
       <pubDate>Thu, 31 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/product-event-marketing-saramonic-witalk9-global-launch-hongkong-2024/</guid>
       <description>Discover the Saramonic WiTalk9, a revolutionary wireless intercom headset system designed for high-intensity environments. With advanced noise cancellation and seamless connectivity, it redefines communication for film crews and event teams. Learn more about its features and benefits.</description>
     </item>
     <item>
       <title>Guest Speaker Sharing -  How to leverage Threads in E-Commerce &amp; Digital Marketing at the CPAHK and SME Lab Seminar</title>
-      <link>http://localhost:50255/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
+      <link>https://www.wdigitalagency.com/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
       <pubDate>Thu, 24 Oct 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
       <description>Join over 100 industry professionals in the cosmetics, beauty, medical, and healthcare sectors as they navigate the digital landscape.</description>
     </item>
     <item>
       <title>Behind the Scenes: Launching Alice Fung So Bor&#39;s YouTube Channel - A Case Study in Content Production and PR</title>
-      <link>http://localhost:50255/portfolios/launching-alice-fung-so-bor-youtube-channel/</link>
+      <link>https://www.wdigitalagency.com/portfolios/launching-alice-fung-so-bor-youtube-channel/</link>
       <pubDate>Thu, 10 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/launching-alice-fung-so-bor-youtube-channel/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/launching-alice-fung-so-bor-youtube-channel/</guid>
       <description>Explore the strategic launch of Alice Fung So Bor&amp;rsquo;s YouTube channel, featuring a celebrity interview, professional production, and effective PR tactics. Discover how we achieved over 15,000 views and 200+ likes through engaging content development and audience engagement strategies.</description>
     </item>
     <item>
       <title>Celebrate Six Years of Business Mama Group: A Night of Inspiration and Connection</title>
-      <link>http://localhost:50255/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</link>
+      <link>https://www.wdigitalagency.com/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</link>
       <pubDate>Mon, 07 Oct 2024 10:05:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/event-marketing-management-business-mama-group-6th-anniversary-2024/</guid>
       <description>On September 27, 2024, the Business Mama Group (BMG) celebrated its sixth anniversary with a spectacular dinner in Jordan. Over 100 guests gathered for an evening filled with heartfelt speeches from branch chairs, captivating performances by talented entrepreneurial mothers, and an exciting lucky draw featuring prizes worth over HKD 100,000. With seamless PR services and engaging MCs, the event was a beautiful tribute to resilience and community spirit among women entrepreneurs.</description>
     </item>
     <item>
       <title>Case Study: AC Home - SEO and SEM Strategies for Lead Generation of a Air Con Cleaning and Repairing Company in Hong Kong</title>
-      <link>http://localhost:50255/portfolios/achomehk/</link>
+      <link>https://www.wdigitalagency.com/portfolios/achomehk/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/achomehk/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/achomehk/</guid>
       <description>Explore how AC Home improved lead generation by shifting focus from competitive keywords to high-intent phrases like &amp;lsquo;Repairing Air Con&amp;rsquo; and &amp;lsquo;Fixing Air Con Leaking Water.&amp;rsquo;</description>
     </item>
     <item>
       <title>Contact W Digital</title>
-      <link>http://localhost:50255/contact/</link>
+      <link>https://www.wdigitalagency.com/contact/</link>
       <pubDate>Mon, 30 Sep 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/contact/</guid>
+      <guid>https://www.wdigitalagency.com/contact/</guid>
       <description>Contact W Digital for AI automation, digital marketing strategies, and production services.</description>
     </item>
     <item>
       <title>Our Services</title>
-      <link>http://localhost:50255/services/</link>
+      <link>https://www.wdigitalagency.com/services/</link>
       <pubDate>Fri, 20 Sep 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:50255/services/</guid>
+      <guid>https://www.wdigitalagency.com/services/</guid>
       <description>W Digital Agency is a full-service consultancy offering AI automation for SMEs, comprehensive digital marketing solutions, and professional production services for businesses across Southeast Asia.</description>
     </item>
     <item>
       <title>About W Digital</title>
-      <link>http://localhost:50255/about/</link>
+      <link>https://www.wdigitalagency.com/about/</link>
       <pubDate>Fri, 20 Sep 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/about/</guid>
-      <description>&lt;h2 id=&#34;about-w-digital&#34;&gt;About W Digital&lt;/h2&gt;&#xA;&lt;p&gt;W Digital Agency is a leading digital marketing agency specializing in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Performance-driven advertising&lt;/li&gt;&#xA;&lt;li&gt;Website marketing&lt;/li&gt;&#xA;&lt;li&gt;SEO&lt;/li&gt;&#xA;&lt;li&gt;E-commerce strategy&lt;/li&gt;&#xA;&lt;li&gt;Event marketing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our mission is to enable our clients to achieve their business objectives through our world-class digital marketing solutions. Our team is focused on delivering results, driving growth and engaging customers. We offer a proven track record of successful campaigns. Partner with us to take your online marketing efforts to the next level.&lt;/p&gt;</description>
+      <guid>https://www.wdigitalagency.com/about/</guid>
+      <description>About W Digital - a Hongkong-based leading digital marketing agency specializing in performance-driven advertising, website marketing, SEO, e-commerce marketing strategy and email marketing.</description>
     </item>
     <item>
       <title>Tip From Agency: The Importance of Owning and Holding Your Website Domain Name: Benefits of Direct Ownership</title>
-      <link>http://localhost:50255/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</link>
+      <link>https://www.wdigitalagency.com/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50255/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</guid>
-      <description>One crucial element of this online presence is a domain name, which serves as your unique address on the internet.</description>
+      <guid>https://www.wdigitalagency.com/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</guid>
+      <description>One crucial element of this online presence is a domain name, which serves as your unique address on the internet. When it comes to owning and managing your domain name, there are significant advantages to doing it yourself instead of relying on third-party agencies.</description>
     </item>
     <item>
       <title>Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav</title>
-      <link>http://localhost:50255/portfolios/deity-microphones-viviana-sound-solutions/</link>
+      <link>https://www.wdigitalagency.com/portfolios/deity-microphones-viviana-sound-solutions/</link>
       <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/deity-microphones-viviana-sound-solutions/</guid>
-      <description>&lt;p&gt;Hong Kong, 22 February 2024 - Deity Microphones, a leading provider of professional audio solutions, in collaboration with Viviana Sound Solutions, is thrilled to announce the highly anticipated Master Class Reality Show: How to Lav. This exclusive event will take place on 20 February 2024 at the prestigious venue, the Wave in Kwung Tong, Hong Kong, from 7-9pm.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g3VAuSjUSzY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.wingleung.me/wp-content/uploads/2025/02/deity-001-scaled.jpg&#34; alt=&#34;Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav&#34;  /&gt;&lt;/p&gt;</description>
+      <guid>https://www.wdigitalagency.com/portfolios/deity-microphones-viviana-sound-solutions/</guid>
+      <description>&lt;p&gt;Hong Kong, 22 February 2024 - Deity Microphones, a leading provider of professional audio solutions, in collaboration with Viviana Sound Solutions, is thrilled to announce the highly anticipated Master Class Reality Show: How to Lav. This exclusive event will take place on 20 February 2024 at the prestigious venue, the Wave in Kwung Tong, Hong Kong, from 7-9pm.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g3VAuSjUSzY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.wingleung.me/wp-content/uploads/2025/02/deity-001-scaled.jpg&#34; alt=&#34;Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav&#34;  /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>10 Predictions in digital marketing and social media trends in 2024</title>
-      <link>http://localhost:50255/10-predictions-in-digital-marketing-and-social-media-trends-in-2024/</link>
+      <link>https://www.wdigitalagency.com/10-predictions-in-digital-marketing-and-social-media-trends-in-2024/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50255/10-predictions-in-digital-marketing-and-social-media-trends-in-2024/</guid>
-      <description>10 things that digital marketers should know in 2024</description>
+      <guid>https://www.wdigitalagency.com/10-predictions-in-digital-marketing-and-social-media-trends-in-2024/</guid>
+      <description>What new marketing trends &amp;amp; technologies digital marketers should know in 2024.</description>
     </item>
     <item>
       <title>Is email marketing still valid and crucial for sales and E-Commerce in 2024?</title>
-      <link>http://localhost:50255/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</link>
+      <link>https://www.wdigitalagency.com/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</link>
       <pubDate>Thu, 01 Feb 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</guid>
-      <description>Is email marketing still important in 2024?</description>
+      <guid>https://www.wdigitalagency.com/is-email-marketing-still-valid-and-crucial-for-sales-and-e-commerce-in-2024/</guid>
+      <description>W Digital is definitely sure that emails will still hold its place for a very long time. Email marketing is still an essential strategy for e-commerce merchants due to its effectiveness in driving sales, building customer relationships, and maximizing revenue in 2024.</description>
     </item>
     <item>
       <title>Are you aware of the latest email marketing requirements in 2024?</title>
-      <link>http://localhost:50255/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</link>
+      <link>https://www.wdigitalagency.com/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</link>
       <pubDate>Wed, 31 Jan 2024 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</guid>
-      <description>Is email marketing still important in 2024?</description>
+      <guid>https://www.wdigitalagency.com/are-you-aware-of-the-latest-email-marketing-requirements-in-2024/</guid>
+      <description>Email is out-dated? My answer is no, because it is the most cost effective communication channel in B2B and e-Commerce business. You should be alert those new email marketing guidelines in 2024 in order to maintain a better performance in email marketing.</description>
     </item>
     <item>
       <title>DotDot HK - E Commerce Strategy and Email Marketing</title>
-      <link>http://localhost:50255/portfolios/dotdot-hk-portfolio/</link>
+      <link>https://www.wdigitalagency.com/portfolios/dotdot-hk-portfolio/</link>
       <pubDate>Sun, 10 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/dotdot-hk-portfolio/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/dotdot-hk-portfolio/</guid>
       <description>Transform your digital marketing strategy with our hands-on approach, designed to tackle the unique challenges businesses face today. Our expert team specializes in SEO, PPC, social media, and content marketing, crafting tailored strategies that align with your goals. Stay ahead of the competition by leveraging our up-to-date industry insights.</description>
     </item>
     <item>
       <title>DamDam Birdnest Limited - Advice On Digital Advertisement</title>
-      <link>http://localhost:50255/portfolios/damdambirdnest-portfolio/</link>
+      <link>https://www.wdigitalagency.com/portfolios/damdambirdnest-portfolio/</link>
       <pubDate>Sat, 09 Sep 2023 00:10:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/damdambirdnest-portfolio/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/damdambirdnest-portfolio/</guid>
       <description>DamDam Birdnest, a Hongkong-based online shop selling edible bird&amp;rsquo;s nests and Chinese sweet soup, looked for digital advice on Google Search Marketing and Social Media Ads.</description>
     </item>
     <item>
       <title>The Academy of Fencing Hong Kong - Google Ads Consultation</title>
-      <link>http://localhost:50255/portfolios/academy-fencing-hk-portfolio/</link>
+      <link>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</link>
       <pubDate>Fri, 01 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/academy-fencing-hk-portfolio/</guid>
+      <guid>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</guid>
       <description>Academy of Fencing (Hong Kong), a local fencing school looks for more leads during the summer period, as this is their first time of using Google Ads and search engine marketing. The lead quality is much better than on social media platforms.</description>
     </item>
     <item>
       <title>Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019</title>
-      <link>http://localhost:50255/portfolios/digital-marketing-talk-hkpolyu-2019/</link>
+      <link>https://www.wdigitalagency.com/portfolios/digital-marketing-talk-hkpolyu-2019/</link>
       <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/digital-marketing-talk-hkpolyu-2019/</guid>
-      <description>&lt;p&gt;In December 2019, I had the opportunity to deliver a 60-minute talk at HKPOLYU SPEED, focusing on the impact of vidoe marketing in digital marketing. The audience comprised part-time diploma students enrolled in digital marketing modules, totaling up to 50 participants.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:50255/images/polyu-speed-2.jpg&#34; alt=&#34;Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019&#34;  /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:50255/images/polyu-speed-4.jpg&#34; alt=&#34;Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019&#34;  /&gt;&lt;/p&gt;</description>
+      <guid>https://www.wdigitalagency.com/portfolios/digital-marketing-talk-hkpolyu-2019/</guid>
+      <description>&lt;p&gt;In December 2019, I had the opportunity to deliver a 60-minute talk at HKPOLYU SPEED, focusing on the impact of vidoe marketing in digital marketing. The audience comprised part-time diploma students enrolled in digital marketing modules, totaling up to 50 participants.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.wdigitalagency.com/images/polyu-speed-2.jpg&#34; alt=&#34;Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.wdigitalagency.com/images/polyu-speed-4.jpg&#34; alt=&#34;Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019&#34;  /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reviving Nature: A Community Video Campaign for the Restoration of Section 4 of the MacLehose Trail</title>
-      <link>http://localhost:50255/portfolios/green-earth-reviving-nature-2019/</link>
+      <link>https://www.wdigitalagency.com/portfolios/green-earth-reviving-nature-2019/</link>
       <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/portfolios/green-earth-reviving-nature-2019/</guid>
-      <description>&lt;h2 id=&#34;date&#34;&gt;Date:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;February 2019&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;location&#34;&gt;Location:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Section 4 of the MacLehose Trail&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;organizer&#34;&gt;Organizer:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://greenearth.org.hk/en/&#34;&gt;The Green Earth&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.tmitrail.org.tw/en/about&#34;&gt;Taiwan Thousand Miles Trail Association&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview:&lt;/h2&gt;&#xA;&lt;p&gt;The hiking trails in Hong Kong are frequently used, especially during cross-country races or large hiking events, where hundreds or even thousands of participants can cause significant wear on the paths.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:50255/images/green-earth-1.jpg&#34; alt=&#34;Reviving Nature: A Community Video Campaign for the Restoration of Section 4 of the MacLehose Trail&#34;  /&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Archive</title>
-      <link>http://localhost:50255/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50255/archives/</guid>
-      <description>archives</description>
+      <guid>https://www.wdigitalagency.com/portfolios/green-earth-reviving-nature-2019/</guid>
+      <description>&lt;h2 id=&#34;date&#34;&gt;Date:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;February 2019&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;location&#34;&gt;Location:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Section 4 of the MacLehose Trail&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;organizer&#34;&gt;Organizer:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://greenearth.org.hk/en/&#34;&gt;The Green Earth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tmitrail.org.tw/en/about&#34;&gt;Taiwan Thousand Miles Trail Association&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview:&lt;/h2&gt;
+&lt;p&gt;The hiking trails in Hong Kong are frequently used, especially during cross-country races or large hiking events, where hundreds or even thousands of participants can cause significant wear on the paths.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://www.wdigitalagency.com/images/green-earth-1.jpg&#34; alt=&#34;Reviving Nature: A Community Video Campaign for the Restoration of Section 4 of the MacLehose Trail&#34;  /&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Marketing &amp; AI Mastery Course for SMEs</title>
-      <link>http://localhost:50255/courses/digital-marketing-ai-mastery/</link>
+      <link>https://www.wdigitalagency.com/courses/digital-marketing-ai-mastery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50255/courses/digital-marketing-ai-mastery/</guid>
+      <guid>https://www.wdigitalagency.com/courses/digital-marketing-ai-mastery/</guid>
       <description>Master digital marketing and AI automation in this intensive 4-day course designed specifically for Hong Kong SME owners. Learn practical skills in website management, social media, content creation, and AI automation.</description>
-    </item>
-    <item>
-      <title>Search Our Website | W Digital Agency</title>
-      <link>http://localhost:50255/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50255/search/</guid>
-      <description>search</description>
     </item>
   </channel>
 </rss>

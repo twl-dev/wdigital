@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Form Handling on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:50255/tags/form-handling/</link>
+    <link>https://www.wdigitalagency.com/tags/form-handling/</link>
     <description>Recent content in Form Handling on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 25 Feb 2025 08:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50255/tags/form-handling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/tags/form-handling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Replace Contact Form 7 with Formspree: A Simpler, Smarter Solution for Your Website</title>
-      <link>http://localhost:50255/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</link>
+      <link>https://www.wdigitalagency.com/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</link>
       <pubDate>Tue, 25 Feb 2025 08:00:00 +0800</pubDate>
-      <guid>http://localhost:50255/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</guid>
+      <guid>https://www.wdigitalagency.com/replace-contact-form-7-with-formspree-form-to-email-wordpress-website/</guid>
       <description>Tired of Contact Form 7’s clunky plugin, maintenance hassles, and CAPTCHA issues? Discover why Formspree is the perfect alternative—no plugins, no maintenance, and no spam headaches. Learn how to make the switch today!</description>
     </item>
   </channel>
