@@ -1,5 +1,42 @@
+# Hugo build output
 public/
 resources/_gen/
+
+# OS generated files
 .DS_Store
 **/.DS_Store
-.hugo_build.lock 
+Thumbs.db
+
+# Hugo build lock file
+.hugo_build.lock
+
+# Node modules (if using npm/yarn)
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
+
+# IDE specific files
+.idea/
+.vscode/
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux specific files
+*~ 
