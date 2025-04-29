@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SEM on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>https://www.wdigitalagency.com/tags/sem/</link>
+    <link>http://localhost:1313/tags/sem/</link>
     <description>Recent content in SEM on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
     <image>
       <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>https://www.wdigitalagency.com/images/logo.png</url>
-      <link>https://www.wdigitalagency.com/images/logo.png</link>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:10:00 +0800</lastBuildDate>
-    <atom:link href="https://www.wdigitalagency.com/tags/sem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Case Study: AC Home - SEO and SEM Strategies for Lead Generation of a Air Con Cleaning and Repairing Company in Hong Kong</title>
-      <link>https://www.wdigitalagency.com/portfolios/achomehk/</link>
+      <link>http://localhost:1313/portfolios/achomehk/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/achomehk/</guid>
+      <guid>http://localhost:1313/portfolios/achomehk/</guid>
       <description>Explore how AC Home improved lead generation by shifting focus from competitive keywords to high-intent phrases like &amp;lsquo;Repairing Air Con&amp;rsquo; and &amp;lsquo;Fixing Air Con Leaking Water.&amp;rsquo;</description>
     </item>
     <item>
       <title>DamDam Birdnest Limited - Advice On Digital Advertisement</title>
-      <link>https://www.wdigitalagency.com/portfolios/damdambirdnest-portfolio/</link>
+      <link>http://localhost:1313/portfolios/damdambirdnest-portfolio/</link>
       <pubDate>Sat, 09 Sep 2023 00:10:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/damdambirdnest-portfolio/</guid>
+      <guid>http://localhost:1313/portfolios/damdambirdnest-portfolio/</guid>
       <description>DamDam Birdnest, a Hongkong-based online shop selling edible bird&amp;rsquo;s nests and Chinese sweet soup, looked for digital advice on Google Search Marketing and Social Media Ads.</description>
     </item>
     <item>
       <title>The Academy of Fencing Hong Kong - Google Ads Consultation</title>
-      <link>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</link>
+      <link>http://localhost:1313/portfolios/academy-fencing-hk-portfolio/</link>
       <pubDate>Fri, 01 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</guid>
+      <guid>http://localhost:1313/portfolios/academy-fencing-hk-portfolio/</guid>
       <description>Academy of Fencing (Hong Kong), a local fencing school looks for more leads during the summer period, as this is their first time of using Google Ads and search engine marketing. The lead quality is much better than on social media platforms.</description>
     </item>
   </channel>

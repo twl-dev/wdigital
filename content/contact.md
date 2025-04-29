@@ -24,17 +24,19 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
   
   <div class="form-group">
     <label for="name">Name</label>
-    <input type="text" name="name" id="name" required>
+    <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
+    <span class="error-message" style="display: none;">Please enter your name</span>
   </div>
   
   <div class="form-group">
     <label for="email">Email</label>
-    <input type="email" name="_replyto" id="email" required>
+    <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" required>
+    <span class="error-message" style="display: none;">Please enter a valid email</span>
   </div>
   
   <div class="form-group">
     <label for="service">I'm interested in:</label>
-    <select name="service" id="service">
+    <select class="form-control" id="service" name="service">
       <option value="AI Automation">AI Automation Consultation</option>
       <option value="Digital Marketing">Digital Marketing Services</option>
       <option value="Production">Production Services</option>
@@ -44,16 +46,21 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
   
   <div class="form-group">
     <label for="message">Message</label>
-    <textarea name="message" id="message" rows="5" required></textarea>
+    <textarea class="form-control" id="message" name="message" placeholder="Enter your message" rows="5" required></textarea>
+    <span class="error-message" style="display: none;">Please enter your message</span>
   </div>
   
   <div class="form-group">
-    <label class="checkbox-label" style="display: block; margin-bottom: 0.5rem;">
-      <div style="display: flex; align-items: center; gap: 0.5rem;">
-        <input type="checkbox" name="consent" required style="margin: 0;">
-        <span style="line-height: 1.4;">I agree to the privacy policy and consent to being contacted</span>
+    <div class="row">
+      <div class="col-1">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="consent" required>
+          <label class="form-check-label" for="consent">
+            I consent to the processing of my personal data for the purpose of this event.
+          </label>
+        </div>
       </div>
-    </label>
+    </div>
   </div>
   <button type="submit" class="submit-button">
     <span class="default-text">Send Message</span>
@@ -96,6 +103,10 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
 .contact-form button:hover {
   background-color: #005fa3;
 }
+.error-message {
+  color: red;
+  font-size: 0.8rem;
+}
 </style>
 {{< /rawhtml >}}
 
@@ -110,3 +121,4 @@ Stay connected with us on social media for the latest updates, AI tips, and digi
 
 - [Threads](https://www.threads.net/@w.digital.agency)
 - [Instagram](https://www.instagram.com/w.digital.agency)
+- [GitHub](https://github.com/w-digital-agency/)

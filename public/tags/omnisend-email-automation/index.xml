@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Omnisend Email Automation on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>https://www.wdigitalagency.com/tags/omnisend-email-automation/</link>
+    <link>http://localhost:1313/tags/omnisend-email-automation/</link>
     <description>Recent content in Omnisend Email Automation on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
     <image>
       <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>https://www.wdigitalagency.com/images/logo.png</url>
-      <link>https://www.wdigitalagency.com/images/logo.png</link>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 04 Mar 2025 08:00:01 +0800</lastBuildDate>
-    <atom:link href="https://www.wdigitalagency.com/tags/omnisend-email-automation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/omnisend-email-automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Complete Guide to Omnisend Email Automation: Setup and Workflows</title>
-      <link>https://www.wdigitalagency.com/omnisend-email-automation-guide/</link>
+      <link>http://localhost:1313/omnisend-email-automation-guide/</link>
       <pubDate>Tue, 04 Mar 2025 08:00:01 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/omnisend-email-automation-guide/</guid>
+      <guid>http://localhost:1313/omnisend-email-automation-guide/</guid>
       <description>Master Omnisend email automation with our comprehensive guide. Learn how to create powerful automated workflows that boost sales and engagement.</description>
     </item>
   </channel>

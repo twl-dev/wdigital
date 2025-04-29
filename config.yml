@@ -96,7 +96,9 @@ params:
         url: /services/
       - name: Portfolios
         url: /portfolios/
-
+      - name: Contact Us  
+        url: /contact/
+      
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -107,6 +109,8 @@ params:
       url: "https://threads.net/@wdigitalagency"
     - name: instagram
       url: "https://www.instagram.com/w.digital.agency"
+    - name: GitHub
+      url: "https://github.com/w-digital-agency/"
 
   analytics:
     google:
