@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/cloud-ide/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/code-sharing/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/collaborative-coding/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/deployment-platform/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning-to-code/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/online-programming/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/real-time-collaboration/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/replit/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/replit-vibe-coding-platform-collaborative-development-deployment/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vibe-coding/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2025-04-27T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai-coding-assistant/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai-pair-programming/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/code-generation/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/code-suggestions/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cursor-ide/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cursor-ai-vibe-coding-assistant-transform-development-workflow/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/developer-workflow/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/modern-development/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivity-tools/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming-efficiency/</loc>
+    <lastmod>2025-04-20T08:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai-coding-for-beginners/</loc>
     <lastmod>2025-04-13T08:00:00+08:00</lastmod>
   </url><url>
@@ -29,19 +101,7 @@
     <loc>http://localhost:1313/tags/no-setup-coding/</loc>
     <lastmod>2025-04-13T08:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-13T08:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/prototyping-apps/</loc>
-    <lastmod>2025-04-13T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-13T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-13T08:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
     <lastmod>2025-04-13T08:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/beauty-industry/</loc>

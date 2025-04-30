@@ -211,3 +211,12 @@ taxonomies:
 enableEmoji: true
 hasCJKLanguage: true  # Important for Hong Kong market
 defaultContentLanguage: "en"
+
+# Image processing configuration
+imaging:
+  quality: 85
+  resampleFilter: lanczos
+  anchor: smart
+  exif:
+    disableDate: true
+    disableLatLong: true

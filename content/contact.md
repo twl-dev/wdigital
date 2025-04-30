@@ -15,7 +15,7 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
 ## Get in Touch
 
 {{< rawhtml >}}
-<form action="https://formspree.io/f/mvgpjneq" method="POST" class="contact-form" aria-label="Contact Form">
+<form action="https://formspree.io/f/mvgpjneq" method="POST" class="contact-form" onsubmit="return validateForm()">
   <!-- Add honeypot field for spam protection -->
   <input type="text" name="_gotcha" style="display:none">
   
@@ -25,13 +25,13 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
-    <span class="error-message" style="display: none;">Please enter your name</span>
+    <span id="name-error" class="error-message" style="display: none; color: red;">Please enter your name</span>
   </div>
   
   <div class="form-group">
     <label for="email">Email</label>
     <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" required>
-    <span class="error-message" style="display: none;">Please enter a valid email</span>
+    <span id="email-error" class="error-message" style="display: none; color: red;">Please enter a valid email</span>
   </div>
   
   <div class="form-group">
@@ -47,7 +47,7 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
   <div class="form-group">
     <label for="message">Message</label>
     <textarea class="form-control" id="message" name="message" placeholder="Enter your message" rows="5" required></textarea>
-    <span class="error-message" style="display: none;">Please enter your message</span>
+    <span id="message-error" class="error-message" style="display: none; color: red;">Please enter your message</span>
   </div>
   
   <div class="form-group">
@@ -108,6 +108,35 @@ We'd love to hear from you! Whether you have questions about our AI automation, 
   font-size: 0.8rem;
 }
 </style>
+
+<script>
+  function validateForm() {
+    let valid = true;
+    const name = document.getElementById('name');
+    const email = document.getElementById('email');
+    const message = document.getElementById('message');
+    
+    // Reset error states
+    document.querySelectorAll('.error-message').forEach(el => el.style.display = 'none');
+    
+    if (!name.value.trim()) {
+      document.getElementById('name-error').style.display = 'block';
+      valid = false;
+    }
+    
+    if (!email.value.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.value)) {
+      document.getElementById('email-error').style.display = 'block';
+      valid = false;
+    }
+    
+    if (!message.value.trim()) {
+      document.getElementById('message-error').style.display = 'block';
+      valid = false;
+    }
+    
+    return valid;
+  }
+</script>
 {{< /rawhtml >}}
 
 ## General Inquiries
