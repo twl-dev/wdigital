@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Whatsapp on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>http://localhost:1313/tags/whatsapp/</link>
+    <link>https://www.wdigitalagency.com/tags/whatsapp/</link>
     <description>Recent content in Whatsapp on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
     <image>
       <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>http://localhost:1313/images/logo.png</url>
-      <link>http://localhost:1313/images/logo.png</link>
+      <url>https://www.wdigitalagency.com/images/logo.png</url>
+      <link>https://www.wdigitalagency.com/images/logo.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Mon, 03 Mar 2025 17:53:15 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.wdigitalagency.com/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparing WhatsApp Platforms: Basic, Business, and Business API</title>
-      <link>http://localhost:1313/whatsapp-platform-comparison-guide/</link>
+      <link>https://www.wdigitalagency.com/whatsapp-platform-comparison-guide/</link>
       <pubDate>Mon, 03 Mar 2025 17:53:15 +0800</pubDate>
-      <guid>http://localhost:1313/whatsapp-platform-comparison-guide/</guid>
+      <guid>https://www.wdigitalagency.com/whatsapp-platform-comparison-guide/</guid>
       <description>Comprehensive comparison of WhatsApp&amp;#39;s three main platforms - Basic, Business, and Business API - with feature breakdowns and implementation recommendations</description>
     </item>
   </channel>

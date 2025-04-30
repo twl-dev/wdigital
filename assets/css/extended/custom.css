@@ -37,4 +37,29 @@ form .form-check-label,
   width: auto !important;
   max-width: 100% !important;
   flex: 1 !important;
+}
+
+/* Additional fixes for the consent checkbox */
+.form-check {
+  padding-left: 0 !important;
+}
+
+.form-check-input {
+  position: static !important;
+  margin-left: 0 !important;
+  vertical-align: middle !important;
+}
+
+/* Specifically target the contact form checkbox container */
+#contactform .form-check {
+  display: flex !important;
+  align-items: center !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Ensure text wraps properly next to checkbox */
+#contactform .form-check-label {
+  line-height: 1.4 !important;
+  display: inline !important;
+  margin-left: 0.5rem !important;
 } 
