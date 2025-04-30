@@ -1,0 +1,40 @@
+/* Fix for consent checkbox alignment - with more specific selectors */
+.contact-form .form-group .form-check,
+form .form-group .form-check,
+.form-group .row .col-1 .form-check {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 0.5rem !important;
+  margin-bottom: 1rem !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.contact-form .form-check-input,
+form .form-check-input,
+.form-group .row .col-1 .form-check-input {
+  margin-top: 0.3rem !important;
+  margin-right: 0.5rem !important;
+  flex-shrink: 0 !important;
+  position: relative !important;
+  width: auto !important;
+}
+
+.contact-form .form-check-label,
+form .form-check-label,
+.form-group .row .col-1 .form-check-label {
+  flex: 1 !important;
+  margin-left: 0 !important;
+  display: inline-block !important;
+  text-align: left !important;
+  width: auto !important;
+  max-width: 100% !important;
+}
+
+/* Remove the fixed column width if present */
+.form-group .row .col-1 {
+  width: auto !important;
+  max-width: 100% !important;
+  flex: 1 !important;
+} 
