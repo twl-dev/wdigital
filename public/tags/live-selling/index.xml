@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Live Selling on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>https://www.wdigitalagency.com/tags/live-selling/</link>
+    <link>http://localhost:1313/tags/live-selling/</link>
     <description>Recent content in Live Selling on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
     <image>
       <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>https://www.wdigitalagency.com/images/logo.png</url>
-      <link>https://www.wdigitalagency.com/images/logo.png</link>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 24 Oct 2024 09:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.wdigitalagency.com/tags/live-selling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/live-selling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guest Speaker Sharing -  How to leverage Threads in E-Commerce &amp; Digital Marketing at the CPAHK and SME Lab Seminar</title>
-      <link>https://www.wdigitalagency.com/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
+      <link>http://localhost:1313/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</link>
       <pubDate>Thu, 24 Oct 2024 09:00:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
+      <guid>http://localhost:1313/portfolios/guest-seminar-talk-on-threads-social-media-marketing-smelab-cpahk/</guid>
       <description>Join over 100 industry professionals in the cosmetics, beauty, medical, and healthcare sectors as they navigate the digital landscape.</description>
     </item>
   </channel>

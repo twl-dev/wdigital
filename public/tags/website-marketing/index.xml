@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Website Marketing on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>https://www.wdigitalagency.com/tags/website-marketing/</link>
+    <link>http://localhost:1313/tags/website-marketing/</link>
     <description>Recent content in Website Marketing on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
     <image>
       <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>https://www.wdigitalagency.com/images/logo.png</url>
-      <link>https://www.wdigitalagency.com/images/logo.png</link>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 14 Nov 2024 08:00:00 +0800</lastBuildDate>
-    <atom:link href="https://www.wdigitalagency.com/tags/website-marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/website-marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are You Planning to Build Your Own Website? Here Are Our Suggestions for CMS in 2024</title>
-      <link>https://www.wdigitalagency.com/buidling-website-cms-suggestions-2024/</link>
+      <link>http://localhost:1313/buidling-website-cms-suggestions-2024/</link>
       <pubDate>Thu, 14 Nov 2024 08:00:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/buidling-website-cms-suggestions-2024/</guid>
+      <guid>http://localhost:1313/buidling-website-cms-suggestions-2024/</guid>
       <description>A comprehensive guide for individuals and new companies to choosing the right CMS for your website in 2024, covering objectives, budget considerations, and top platform recommendations.</description>
     </item>
     <item>
       <title>Case Study: AC Home - SEO and SEM Strategies for Lead Generation of a Air Con Cleaning and Repairing Company in Hong Kong</title>
-      <link>https://www.wdigitalagency.com/portfolios/achomehk/</link>
+      <link>http://localhost:1313/portfolios/achomehk/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/achomehk/</guid>
+      <guid>http://localhost:1313/portfolios/achomehk/</guid>
       <description>Explore how AC Home improved lead generation by shifting focus from competitive keywords to high-intent phrases like &amp;lsquo;Repairing Air Con&amp;rsquo; and &amp;lsquo;Fixing Air Con Leaking Water.&amp;rsquo;</description>
     </item>
     <item>
       <title>Tip From Agency: The Importance of Owning and Holding Your Website Domain Name: Benefits of Direct Ownership</title>
-      <link>https://www.wdigitalagency.com/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</link>
+      <link>http://localhost:1313/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.wdigitalagency.com/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</guid>
+      <guid>http://localhost:1313/the-importance-of-owning-your-website-domain-name-for-digital-marketing/</guid>
       <description>One crucial element of this online presence is a domain name, which serves as your unique address on the internet. When it comes to owning and managing your domain name, there are significant advantages to doing it yourself instead of relying on third-party agencies.</description>
     </item>
     <item>
       <title>The Academy of Fencing Hong Kong - Google Ads Consultation</title>
-      <link>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</link>
+      <link>http://localhost:1313/portfolios/academy-fencing-hk-portfolio/</link>
       <pubDate>Fri, 01 Sep 2023 10:00:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/academy-fencing-hk-portfolio/</guid>
+      <guid>http://localhost:1313/portfolios/academy-fencing-hk-portfolio/</guid>
       <description>Academy of Fencing (Hong Kong), a local fencing school looks for more leads during the summer period, as this is their first time of using Google Ads and search engine marketing. The lead quality is much better than on social media platforms.</description>
     </item>
   </channel>

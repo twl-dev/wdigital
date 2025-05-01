@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Keyword Optimization on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-    <link>https://www.wdigitalagency.com/tags/keyword-optimization/</link>
+    <link>http://localhost:1313/tags/keyword-optimization/</link>
     <description>Recent content in Keyword Optimization on W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</description>
     <image>
       <title>W Digital Agency | AI Automation &amp; Digital Marketing Agency for Southeast Asia</title>
-      <url>https://www.wdigitalagency.com/images/logo.png</url>
-      <link>https://www.wdigitalagency.com/images/logo.png</link>
+      <url>http://localhost:1313/images/logo.png</url>
+      <link>http://localhost:1313/images/logo.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-uk</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:10:00 +0800</lastBuildDate>
-    <atom:link href="https://www.wdigitalagency.com/tags/keyword-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/keyword-optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Case Study: AC Home - SEO and SEM Strategies for Lead Generation of a Air Con Cleaning and Repairing Company in Hong Kong</title>
-      <link>https://www.wdigitalagency.com/portfolios/achomehk/</link>
+      <link>http://localhost:1313/portfolios/achomehk/</link>
       <pubDate>Sat, 05 Oct 2024 00:10:00 +0800</pubDate>
-      <guid>https://www.wdigitalagency.com/portfolios/achomehk/</guid>
+      <guid>http://localhost:1313/portfolios/achomehk/</guid>
       <description>Explore how AC Home improved lead generation by shifting focus from competitive keywords to high-intent phrases like &amp;lsquo;Repairing Air Con&amp;rsquo; and &amp;lsquo;Fixing Air Con Leaking Water.&amp;rsquo;</description>
     </item>
   </channel>

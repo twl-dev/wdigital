@@ -1,7 +1,15 @@
-/* Fix for consent checkbox alignment - with more specific selectors */
+/* ===== CONTACT FORM CHECKBOX ALIGNMENT FIXES ===== */
+
+/* General form check containers */
+.form-check {
+  padding-left: 0 !important;
+}
+
+/* Shared form check styles across different contexts */
 .contact-form .form-group .form-check,
 form .form-group .form-check,
-.form-group .row .col-1 .form-check {
+.form-group .row .col-1 .form-check,
+#contactform .form-check {
   display: flex !important;
   flex-direction: row !important;
   align-items: flex-start !important;
@@ -11,16 +19,28 @@ form .form-group .form-check,
   max-width: 100% !important;
 }
 
+/* Contact form-specific adjustments */
+#contactform .form-check {
+  align-items: center !important;
+  margin-bottom: 1.5rem !important;
+}
+
+/* Checkbox input styles */
+.form-check-input,
 .contact-form .form-check-input,
 form .form-check-input,
 .form-group .row .col-1 .form-check-input {
   margin-top: 0.3rem !important;
   margin-right: 0.5rem !important;
   flex-shrink: 0 !important;
-  position: relative !important;
+  position: static !important;
+  margin-left: 0 !important;
   width: auto !important;
+  vertical-align: middle !important;
 }
 
+/* Checkbox label styles */
+.form-check-label,
 .contact-form .form-check-label,
 form .form-check-label,
 .form-group .row .col-1 .form-check-label {
@@ -32,34 +52,23 @@ form .form-check-label,
   max-width: 100% !important;
 }
 
-/* Remove the fixed column width if present */
+/* Specific styling for contact form labels */
+#contactform .form-check-label {
+  line-height: 1.4 !important;
+  display: inline !important;
+  margin-left: 0.5rem !important;
+}
+
+/* Remove fixed column width if present */
 .form-group .row .col-1 {
   width: auto !important;
   max-width: 100% !important;
   flex: 1 !important;
 }
 
-/* Additional fixes for the consent checkbox */
-.form-check {
-  padding-left: 0 !important;
-}
-
-.form-check-input {
-  position: static !important;
-  margin-left: 0 !important;
-  vertical-align: middle !important;
-}
-
-/* Specifically target the contact form checkbox container */
-#contactform .form-check {
-  display: flex !important;
-  align-items: center !important;
-  margin-bottom: 1.5rem !important;
-}
-
-/* Ensure text wraps properly next to checkbox */
-#contactform .form-check-label {
-  line-height: 1.4 !important;
-  display: inline !important;
-  margin-left: 0.5rem !important;
+/* ===== RESPONSIVE ADJUSTMENTS ===== */
+@media (max-width: 768px) {
+  .form-check-label {
+    font-size: 0.95rem !important;
+  }
 } 
